@@ -2,3 +2,5 @@
 .selid-hooks
 /.build/
 /dist/
+.check-identity
+Ancient_Species_in_English.zip

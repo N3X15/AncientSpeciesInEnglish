@@ -1,4 +1,7 @@
+from bz2 import compress
+import os
 from pathlib import Path
+import zipfile
 from buildtools.maestro import BuildMaestro
 from buildtools.maestro.fileio import CopyFileTarget, CopyFilesTarget
 
@@ -38,6 +41,19 @@ bm.add(CopyFileTarget(str(DIST_DIR / DEFINJECTED_DIR / 'ThingDef' / 'Weapons_Ran
 bm.add(CopyFileTarget(str(DIST_DIR / DEFINJECTED_DIR / 'ThingDef' / 'Weapons_WAE_Ranged.xml'), str(DEFINJECTED_DIR / 'ThingDef' / 'Weapons_WAE_Ranged.xml')))
 bm.add(CopyFileTarget(str(DIST_DIR / DEFINJECTED_DIR / 'ThingDef' / 'Weapons_WHE_Ranged.xml'), str(DEFINJECTED_DIR / 'ThingDef' / 'Weapons_WHE_Ranged.xml')))
 bm.add(CopyFileTarget(str(DIST_DIR / DEFINJECTED_DIR / 'ThingDef' / 'Weapons_WHEAT_Ranged.xml'), str(DEFINJECTED_DIR / 'ThingDef' / 'Weapons_WHEAT_Ranged.xml')))
-bm.add(CopyFileTarget(str(DIST_DIR / DEFINJECTED_DIR / 'TraderKindDef' / 'TraderKind_Caravan.xml'), str(DEFINJECTED_DIR / 'TraderKindDef' / 'TraderKind_Caravan.xml')))
+bm.add(CopyFileTarget(str(DIST_DIR / DEFINJECTED_DIR / 'TraderKindDef' / 'TraderKinds_Caravan.xml'), str(DEFINJECTED_DIR / 'TraderKindDef' / 'TraderKinds_Caravan.xml')))
 bm.add(CopyFileTarget(str(DIST_DIR / DEFINJECTED_DIR / 'TraitDef' / 'Traits_WeebElf.xml'), str(DEFINJECTED_DIR / 'TraitDef' / 'Traits_WeebElf.xml')))
 bm.as_app()
+
+print('Writing Ancient_Species_in_English.zip')
+total_bytes = 0
+with zipfile.ZipFile('Ancient_Species_in_English.zip', 'w', compression=zipfile.ZIP_LZMA) as z:
+    for path in DIST_DIR.rglob('*'):
+        if path.is_file():
+            arcpath = Path('Ancient Species in English') / path.relative_to(DIST_DIR)
+            sz = os.path.getsize(path)
+            print(f' Compressing {arcpath} ({sz}B)...')
+            z.write(filename=path, arcname=arcpath)
+            total_bytes += sz
+zipsz = os.path.getsize('Ancient_Species_in_English.zip')
+print(f'Done. {total_bytes}B -> {zipsz}B ({100-round((zipsz/total_bytes)*100)}%)')
