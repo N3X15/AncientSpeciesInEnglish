@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- UnderWare F -->
+  <!--ベイビードール（ハーフエルフ）-->
+  <!--GT:Baby Doll (Half Elf)-->
+  <!-- The wording in English is very awkward and strange, so I reworked it a bit.-->
+  <AS_WHE_UnderwearF.label>"Baby Doll" Underwear (Half-Elf)</AS_WHE_UnderwearF.label>
+  <!--セクシーなベイビードールです。大切な部分をしっかり保護しつつも、諸所が透けて見えるそのデザインは夜戦に最適でしょう。-->
+  <!-- GT: A sexy baby doll. Its design allows you to see through various parts while protecting important parts, making it ideal for night battles.-->
+  <!-- The wording is so ambiguous here that it needed significant changes or it would sound like one literally was considering a baby-shaped figurine "sexy". (Baby doll is a style of feminine underwear, apparently. Yes, I am sheltered.) -->
+  <AS_WHE_UnderwearF.description>Sexy underwear in the popular "Baby Doll" style. Its design allows you to see through various parts while protecting important parts, making it ideal for night battles.</AS_WHE_UnderwearF.description>
+
+
+  <!-- UnderWare G -->
+  <!--白のベイビードール（ハーフエルフ）-->
+  <!-- GT: White baby doll (half elf)-->
+  <AS_WHE_UnderwearG.label>White "Baby Doll" Underwear (Half-Elf)</AS_WHE_UnderwearG.label>
+  <!--白を基調にした、高級なベイビードールです。上品なデザインなだけでなく、女性の魅力を際立たせるよう、セクシーさをちりばめた一級品です。-->
+  <!-- GT: A luxurious baby doll based on white. Not only is it an elegant design, but it is also a first-class product that is studded with sexiness to highlight the charm of women.-->
+  <!-- The wording is so ambiguous here that it needed significant changes or it would sound like one literally was considering a baby-shaped figurine "sexy". (Baby doll is a style of feminine underwear, apparently. Yes, I am sheltered.) -->
+  <!-- "Studded with sexiness" sounds a bit weird, like it's a physical gemstone or something, but I left it in for now until a better metaphor presents itself. -->
+  <AS_WHE_UnderwearG.description>Luxurious white underwear in the popular "Baby Doll" style. Not only is it an elegant design, but it is also a first-class product that is studded with sexiness to highlight the charm of women.</AS_WHE_UnderwearG.description>
+
+
+  <!-- UnderWare H -->
+  <!--黒のベイビードール（ハーフエルフ）-->
+  <AS_WHE_UnderwearH.label>Black "Baby Doll" Underwear (Half-Elf)</AS_WHE_UnderwearH.label>
+  <!--黒を基調にした、高級なベイビードールです。上品なデザインなだけでなく、女性の魅力を際立たせるよう、セクシーさをちりばめた一級品です。-->
+  <!--GT:It is a high-class baby doll based on black. Not only is it an elegant design, but it is also a first-class product that is studded with sexiness to highlight the charm of women.-->
+  <!-- The wording is so ambiguous here that it needed significant changes or it would sound like one literally was considering a baby-shaped figurine "sexy". (Baby doll is a style of feminine underwear, apparently. Yes, I am sheltered.) -->
+  <!-- "Studded with sexiness" sounds a bit weird, like it's a physical gemstone or something, but I left it in for now until a better metaphor presents itself. -->
+  <AS_WHE_UnderwearH.description>High-quality black underwear in the popular "Baby Doll" style. Not only is it an elegant design, but it is also a first-class product that is studded with sexiness to highlight the charm of women.</AS_WHE_UnderwearH.description>
+
+
+  <!-- UnderWare I -->
+  <!-- 高級ベイビードール（ハーフエルフ）-->
+  <!--GT:Luxury baby doll (half elf)-->
+  <AS_WHE_UnderwearI.label>Luxury "Baby Doll" Underwear (Half-Elf)</AS_WHE_UnderwearI.label>
+  <!--高級なベイビードールです。上品なデザインなだけでなく、女性の魅力を際立たせるよう、セクシーさをちりばめた一級品です。 -->
+  <!--It is a luxury baby doll. Not only is it an elegant design, but it is also a first-class product that is studded with sexiness to highlight the charm of women.-->
+  <!-- The wording is so ambiguous here that it needed significant changes or it would sound like one literally was considering a baby-shaped figurine "sexy". (Baby doll is a style of feminine underwear, apparently. Yes, I am sheltered.) -->
+  <!-- "Studded with sexiness" sounds a bit weird, like it's a physical gemstone or something, but I left it in for now until a better metaphor presents itself. -->
+  <AS_WHE_UnderwearI.description>Luxurious underwear in the popular "Baby Doll" style. Not only is it an elegant design, but it is also a first-class product that is studded with sexiness to highlight the charm of women.</AS_WHE_UnderwearI.description>
+
+
+  <!-- Garter Belt -->
+  <!--ガーターベルト（ハーフエルフ）-->
+  <!--GT: Garter Belt (Half Elf)-->
+  <AS_WHE_GarterBelt.label>Garter Belt (Half-Elf)</AS_WHE_GarterBelt.label>
+  <!--ガーターベルトです。美しい体の上を走る一本のベルトは、着用者の魅力を最大限に引き出すでしょう。-->
+  <!--GT:It's a garter belt. A single belt running over a beautiful body will maximize the attractiveness of the wearer.-->
+  <!-- First sentence was superfluous, so it was removed (we already know it's a garter belt.) -->
+  <AS_WHE_GarterBelt.description>A single belt running over a beautiful body will maximize the attractiveness of the wearer.</AS_WHE_GarterBelt.description>
+
+
+</LanguageData>

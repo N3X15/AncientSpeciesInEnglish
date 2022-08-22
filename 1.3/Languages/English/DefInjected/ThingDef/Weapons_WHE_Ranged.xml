@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Compound Bow -->
+  <!-- コンパウンドボウ（ハーフエルフ） -->
+  <!-- GT:Compound Bow (Half Elf) -->
+  <WHE_CompoundBow.label>Compound Bow (Half-Elf)</WHE_CompoundBow.label>
+  <!-- ハーフエルフの技術と、滑車やてこの原理などを用いて作られた大型の半機械弓。連射性能、飛距離、命中精度、威力が高いが、接近戦での取り回しが悪い。 -->
+  <!-- GT: A large semi-mechanical bow made using half-elf technology and the principle of pulleys and levers. It has high rate of fire, flight distance, accuracy, and power, but is difficult to handle in close quarters combat. -->
+  <WHE_CompoundBow.description>A large semi-mechanical bow made using half-elf technology and the principle of pulleys and levers. It has high rate of fire, flight distance, accuracy, and power, but is difficult to handle in close quarters combat.</WHE_CompoundBow.description>
+
+
+  <!-- Elven Compound Bow -->
+  <!-- エルブンコンパウンドボウ（ハーフエルフ） -->
+  <!-- GT: Elven Compound Bow (Half Elf) -->
+  <WHE_ElvenCompoundBow.label>Elven Compound Bow (Half-Elf)</WHE_ElvenCompoundBow.label>
+  <!-- ハーフエルフの技術と、エルフの古代技術、現代の技術を合わせて作られた大型の半機械弓。コンパウンドボウと比較し、連射性能、飛距離がさらに強化され、命中精度も向上している。 -->
+  <!-- GT: A large semi-mechanical bow made by combining half-elf technology, ancient elf technology, and modern technology. Compared to compound bows, its rapid fire performance and flight distance are further enhanced, and its accuracy is also improved. -->
+  <WHE_ElvenCompoundBow.description>A large semi-mechanical bow made by combining half-elf technology, ancient elf technology, and modern technology. Compared to compound bows, its rapid fire performance and flight distance are further enhanced, and its accuracy is also improved.</WHE_ElvenCompoundBow.description>
+  
+  <!-- カーボン矢 -->
+  <!-- GT: carbon arrows -->
+  <AS_WHE_CarbonArrow.label>carbon arrows</AS_WHE_CarbonArrow.label>
+
+  <!-- エルフの強化矢 -->
+  <!-- GT: Elven Enhanced Arrow -->
+  <AS_WHE_ElvenPowerArrow.label>Elven Enhanced Arrow</AS_WHE_ElvenPowerArrow.label>
+
+
+</LanguageData>

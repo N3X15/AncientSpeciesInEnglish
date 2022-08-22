@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- エンシェントエルフの文化 -->
+  <!-- GT: Ancient Elf Culture-->
+  <!-- TODO: Better name. -->
+  <AS_WAE_Cultures.label>Ancient Elf Culture</AS_WAE_Cultures.label>
+
+  <!--辺境の惑星で育まれてきたエンシェントエルフ達の一般的な文化。-->
+  <!-- GT: Common culture of ancient elves nurtured on remote planets.-->
+  <AS_WAE_Cultures.description>The common culture of ancient elves living on remote planets.</AS_WAE_Cultures.description>
+
+  <!-- ハーフエルフの文化 -->
+  <!-- GT: Half Elf Culture -->
+  <!-- TODO: Better name. -->
+  <AS_WHE_Cultures.label>Half Elf Culture</AS_WHE_Cultures.label>
+  <!--
+    Orig: 創造主である人間達の文化を基礎に、辺境の惑星で作り上げられてきた文化。
+    GT: A culture that has been created on a remote planet based on the culture of the humans who are the creators.
+    
+    Rewritten since the translation Google pooped out was nonsensical.
+  -->
+  <AS_WHE_Cultures.description>A culture derived from the human creators of half elves.</AS_WHE_Cultures.description>
+
+
+</LanguageData>

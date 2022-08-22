@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ElvenBow -->
+  <!--エルブンボウ-->
+  <!-- GT: Elven Bow-->
+  <WAE_ElvenBow_Origin.label>Elven Bow</WAE_ElvenBow_Origin.label>
+  <!-- 古代エルフが使っていた一般的な弓です。一般的な弓より強力で、連射性能が高く、飛距離もあります。 -->
+  <!-- GT: A common bow used by ancient elves. It is more powerful than a typical bow, has high rate of fire, and has a long range.-->
+  <WAE_ElvenBow_Origin.description>A common bow used by ancient elves. It is more powerful than a typical bow, has high rate of fire, and has a long range.</WAE_ElvenBow_Origin.description>
+
+  <!--エルフの矢-->
+  <!-- GT: -->
+  <AS_WAE_ElvenArrow.label>elf arrow</AS_WAE_ElvenArrow.label>
+
+
+</LanguageData>

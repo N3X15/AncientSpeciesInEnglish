@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--ASハンドガン-->
+  <!--AS handgun-->
+  <!-- AS was out of place, so replaced it -->
+  <AS_Handgun.label>Ancient Elf Handgun</AS_Handgun.label>
+  <!--ある古代技術により作られた拳銃。バレルが長く、安定感があり、取り回しも良いデザイン、重量になっている。-->
+  <!-- GT: A pistol made with an ancient technology. The barrel is long, has a sense of stability, and has a good design and weight for handling.-->
+  <AS_Handgun.description>A pistol made with an ancient technology. The barrel is long, has a sense of stability, and has a good design and weight for handling.</AS_Handgun.description>
+
+
+  <!-- Grawehr -->
+  <!-- グラヴェーア -->
+  <!-- Going by the label.  Can't figure out what the fuck this is-->
+  <AS_Grawehr.label>Grawehr</AS_Grawehr.label>
+  <!--榴弾を撃ち出すライフル。着弾地点に小さな爆発を発生させ、相手にダメージを与える。-->
+  <AS_Grawehr.description>A rifle that shoots grenades. Creates a small explosion at the point of impact, dealing damage to the opponent.</AS_Grawehr.description>
+
+</LanguageData>

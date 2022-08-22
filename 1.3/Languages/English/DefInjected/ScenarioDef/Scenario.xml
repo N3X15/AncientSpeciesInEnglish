@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AS_WHE_Scenario.label>The end of our escape.</AS_WHE_Scenario.label>
+  <AS_WHE_Scenario.description>They are a group of half-elves who escaped after being hunted by the people of the Space Race. There are three at the start, and seven others who have been scattered during their escape.</AS_WHE_Scenario.description>
+  <AS_WHE_Scenario.scenario.name>The end of our escape.</AS_WHE_Scenario.scenario.name>
+  <!--これはハーフエルフのテスト導入版シナリオです。（テスト版ですが、そのまま遊ぶことは可能です。）-->
+  <!--This is a half-elf test intro scenario. (This is a test version, but you can play it as is.)-->
+  <AS_WHE_Scenario.scenario.summary>This is a half-elf test intro scenario. (This is a test version, but you can play it as is.)</AS_WHE_Scenario.scenario.summary>
+  <AS_WHE_Scenario.scenario.description>They are a group of half-elves who escaped after being hunted by the people of the Space Race. There are three at the start, and seven others who have been scattered during their escape.</AS_WHE_Scenario.scenario.description>
+  <!--"あなた達は、宙族の人狩りにより、逃亡生活を強いられました。長い逃亡の果てに、たどり着いたこの地で、新たな集落を作ることに決めました。"-->
+  <!--GT:"You were forced to live on the run after being hunted by the space tribe. After a long escape, you arrived at this land and decided to build a new settlement."-->
+  <AS_WHE_Scenario.scenario.parts.2.text>"You were forced to live on the run after being hunted by the space tribe. After a long escape, you arrived at this land and decided to build a new settlement."</AS_WHE_Scenario.scenario.parts.2.text>
+
+
+</LanguageData>

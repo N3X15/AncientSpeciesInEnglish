@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- インパクトナックル -->
+  <!-- GT:impact knuckle-->
+  <!-- Pluralized, per convention. -->
+  <AS_AT_Impact_Knuckles.label>Impact Knuckles</AS_AT_Impact_Knuckles.label>
+  <!-- テスト実装 -->
+  <!-- GT: test implementation-->
+  <AS_AT_Impact_Knuckles.description>test implementation</AS_AT_Impact_Knuckles.description>
+
+  <!--古代エルフの剣-->
+  <!--GT: ancient elf sword-->
+  <AS_WHE_WAESword.label>Ancient Elf Sword</AS_WHE_WAESword.label>
+  <!--エンシェントエルフの技術で製造された剣。刀身にはウラニウムが用いられており、非常に丈夫で、単純な切れ味も高い。-->
+  <!-- GT: A sword made with ancient elf technology. Uranium is used for the blade, making it extremely durable and simple to sharpen.-->
+  <!-- Grammar tweaked.-->
+  <AS_WHE_WAESword.description>A sword made with ancient elf technology. Uranium is used for the blade, making it extremely durable, yet simple to sharpen.</AS_WHE_WAESword.description>
+
+  <!-- 古代エルフの剣（レプリカ） -->
+  <!-- GT: Ancient Elven Sword (Replica)-->
+  <AS_WHE_WAESword_Re.label>Ancient Elven Sword (Replica)</AS_WHE_WAESword_Re.label>
+  <!--ハーフエルフの技術で再現された、古代エルフの剣のレプリカ。刀身にはウラニウムが用いられており、黒い仕上がりになっている。-->
+  <!-- GT: A replica of an ancient elf sword, recreated with half-elf technology. Uranium is used for the blade, giving it a black finish.-->
+  <AS_WHE_WAESword_Re.description>A replica of an ancient elf sword, recreated with half-elf technology. Uranium is used for the blade, giving it a black finish.</AS_WHE_WAESword_Re.description>
+
+
+</LanguageData>

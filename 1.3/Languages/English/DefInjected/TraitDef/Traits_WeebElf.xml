@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ハーフエルフの技術士見習い -->
+  <!-- GT: Half Elf Engineer Apprentice -->
+  <AS_WHE_EngineerTrait.degreeDatas.0.label>Half-Elf Engineer Apprentice</AS_WHE_EngineerTrait.degreeDatas.0.label>
+  <!-- 古代種族の技術について興味を持っており、それを使ってハーフエルフの技術を向上させるために学んでいる。 -->
+  <!-- GT: He is interested in the technology of ancient races and is learning to use it to improve his half-elf skills. -->
+  <!-- Fixed gender since not all engineers will be masculine.-->
+  <AS_WHE_EngineerTrait.degreeDatas.0.description>They are interested in the technology of ancient races and are learning to use it to improve their half-elf skills.</AS_WHE_EngineerTrait.degreeDatas.0.description>
+
+  <!-- ハーフエルフの技術士 -->
+  <!-- GT: half-elf engineer -->
+  <AS_WHE_EngineerTrait.degreeDatas.1.label>Half-Elf Engineer</AS_WHE_EngineerTrait.degreeDatas.1.label>
+  <!-- 古代種族の技術について知識を持ち、ハーフエルフの技術と組み合わせて技術を向上させることに取り組んでいる。 -->
+  <!-- GT: He has knowledge of the technology of ancient races, and is working on improving it by combining it with that of half-elves. -->
+  <!-- Fixed gender since not all engineers will be masculine.-->
+  <AS_WHE_EngineerTrait.degreeDatas.1.description>They have knowledge of the technology of ancient races, and are working on improving it by combining it with that of half-elves.</AS_WHE_EngineerTrait.degreeDatas.1.description>
+ 
+  <!-- ハーフエルフの機工士 -->
+  <!-- GT: half-elf machinist -->
+  <AS_WHE_EngineerTrait.degreeDatas.2.label>Half-Elf Machinist</AS_WHE_EngineerTrait.degreeDatas.2.label>
+  <!-- 古代種族の技術について知識を持ち、それを活かしたハーフエルの技術についての技術、経験を持っている。 -->
+  <!-- GT: He has knowledge of the technology of ancient races, and has the technology and experience of half-El technology that makes use of that knowledge. -->
+  <AS_WHE_EngineerTrait.degreeDatas.2.description>They have knowledge of the technology of ancient races, and have the technological experience of half-elf technology that makes use of that knowledge.</AS_WHE_EngineerTrait.degreeDatas.2.description>
+
+  <!-- オドエネルギー蓄積（小） -->
+  <!-- GT: Odo energy storage (small) -->
+  <AS_WeebElf_OdTrait.degreeDatas.0.label>Odo Energy Storage Organ (Small)</AS_WeebElf_OdTrait.degreeDatas.0.label>
+  <!-- 空気中に存在するマナエネルギーを取り込み、オドというエネルギーに変換する器官がわずかに発達しており、体内にため込む性質を持っている。 -->
+  <!-- GT: It has a slightly developed organ that takes in the mana energy that exists in the air and converts it into energy called odo, and has the property of storing it inside the body. -->
+  <AS_WeebElf_OdTrait.degreeDatas.0.description>They have a slightly developed organ which takes in the mana energy that exists in the air and converts it into Odo energy, and then stores it inside their body.</AS_WeebElf_OdTrait.degreeDatas.0.description>
+  <!-- オドエネルギー蓄積（中） -->
+  <!-- GT: Odo Energy Storage (Medium) -->
+  <AS_WeebElf_OdTrait.degreeDatas.1.label>Odo Energy Storage Organ (Medium)</AS_WeebElf_OdTrait.degreeDatas.1.label>
+  <!-- 空気中に存在するマナエネルギーを取り込み、オドというエネルギーに変換する器官が発達しており、体内にため込む性質を持っている。 -->
+  <!-- GT: It has a well-developed organ called Odo that takes in the mana energy present in the air and converts it into energy, and it has the property of storing it inside its body. -->
+  <AS_WeebElf_OdTrait.degreeDatas.1.description>They have a well-developed organ that takes in the mana energy present in the air and converts it into Odo energy, and then stores it inside their body.</AS_WeebElf_OdTrait.degreeDatas.1.description>
+  <!-- オドエネルギー蓄積（大） -->
+  <!-- GT: Odo Energy Storage (Large) -->
+  <AS_WeebElf_OdTrait.degreeDatas.2.label>Odo Energy Storage Organ (Large)</AS_WeebElf_OdTrait.degreeDatas.2.label>
+  <!-- 空気中に存在するマナエネルギーを取り込み、オドというエネルギーに変換する器官がかなり発達しており、体内にため込む性質を持っている。 -->
+  <!-- GT: It has a well-developed organ that takes in the mana energy that exists in the air and converts it into energy called odo, and it has the property of storing it inside its body. -->
+  <AS_WeebElf_OdTrait.degreeDatas.2.description>They have a well-developed organ that takes in the mana energy that exists in the air and converts it into energy called Odo, and then stores it inside their body.</AS_WeebElf_OdTrait.degreeDatas.2.description>
+  <!-- オドエネルギー蓄積（極大） -->
+  <!-- GT: Odo energy storage (maximum) -->
+  <AS_WeebElf_OdTrait.degreeDatas.3.label>Odo Energy Storage Organ (Maximum)</AS_WeebElf_OdTrait.degreeDatas.3.label>
+  <!-- 空気中に存在するマナエネルギーを取り込み、オドというエネルギーに変換する器官が非常に発達しており、体内にため込む性質を持っている。 -->
+  <!-- GT: It has an extremely well-developed organ that takes in the mana energy present in the air and converts it into energy called Odo, and has the property of storing it inside its body. -->
+  <AS_WeebElf_OdTrait.degreeDatas.3.description>They have an extremely well-developed organ that takes in the mana energy present in the air and converts it into energy called Odo, and then stores it inside their body.</AS_WeebElf_OdTrait.degreeDatas.3.description>
+
+  <!--マナエネルギー変換-->
+  <!-- GT: mana energy conversion -->
+  <AS_WeebElf_ManaTrait.degreeDatas.0.label>Mana Energy Conversion</AS_WeebElf_ManaTrait.degreeDatas.0.label>
+  <!-- 空気中に存在するマナのエネルギーを生み出し、保持する器官を体内に持っており、オドエネルギーへ高効率な変換が可能となっている。 -->
+  <!-- GT: It has an organ within its body that generates and retains the mana energy that exists in the air, making it possible to convert it into odo energy with high efficiency. -->
+  <AS_WeebElf_ManaTrait.degreeDatas.0.description>They have an organ within their body that generates and retains the mana energy that exists in the air, making it possible to convert it into Odo energy with high efficiency.</AS_WeebElf_ManaTrait.degreeDatas.0.description>
+
+
+</LanguageData>

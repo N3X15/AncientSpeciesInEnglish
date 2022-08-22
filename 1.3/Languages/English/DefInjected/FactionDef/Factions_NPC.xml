@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- WAE Neolithic Faction -->
+  <!--エンシェントエルフの集落-->
+  <!-- GT: Ancient Elf Village -->
+  <AS_WAE_Settlement.label>Ancient Elf Village</AS_WAE_Settlement.label>
+  <!--エンシェントエルフ達の集落。-->
+  <!-- GT: A village of ancient elves. -->
+  <AS_WAE_Settlement.description>A village of ancient elves.</AS_WAE_Settlement.description>
+  <!--エンシェントエルフ-->
+  <!-- GT: ancient elf -->
+  <AS_WAE_Settlement.fixedName>ancient elf</AS_WAE_Settlement.fixedName>
+  <!--エンシェントエルフ達-->
+  <!--GT: ancient elves-->
+  <AS_WAE_Settlement.pawnsPlural>ancient elves</AS_WAE_Settlement.pawnsPlural>
+</LanguageData>

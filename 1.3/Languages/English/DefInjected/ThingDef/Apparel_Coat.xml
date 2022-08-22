@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Noble Coat -->
+  <!--貴族のコート-->
+  <!--GT:-->
+  <AS_WAE_NobleCoat.label>Noble Coat (Ancient Elf)</AS_WAE_NobleCoat.label>
+  <!--エンシェントエルフの貴族階級者が愛用している、戦闘用のコート。非常に丈夫なだけでなく、装備者の戦闘能力に補正がかかる。-->
+  <!--GT:A combat coat worn by the ancient elf nobility. Not only is it extremely durable, but it also compensates the wearer's combat ability.-->
+  <!-- Changed compensates to amplifies, since compensate used in this context generally means "making up for a deficiency", which isn't what this is doing. -->
+  <AS_WAE_NobleCoat.description>A combat coat worn by the ancient elf nobility. Not only is it extremely durable, but it also amplifies the wearer's combat ability.</AS_WAE_NobleCoat.description>
+
+  <!-- ElvenMantle -->
+  <!--エルブンマント（ハーフエルフ）-->
+  <!-- GT: Elven Cloak (Half Elf)-->
+  <AS_WHE_ElvenMantle.label>Elven Cloak (Half Elf)</AS_WHE_ElvenMantle.label>
+  <!--古代エルフの技術で作られたマント。金による紋様が編みこまれた優雅なデザインになっている。非常に丈夫な素材で作られており、防寒、耐暑、耐熱、防御性能に優れ、使用者の格闘能力を高める加護が付与されている。また、寒さや暑さからも身を守ります。-->
+  <!--A cloak made with ancient elf technology. It has an elegant design with gold patterns woven into it. Made of extremely durable material, it has excellent cold, heat, heat, and defensive performance, and is endowed with divine protection that enhances the user's fighting ability. It also protects you from cold and heat.-->
+  <AS_WHE_ElvenMantle.description>A cloak made with ancient elf technology. It has an elegant design with gold patterns woven into it. Made of extremely durable material, it has excellent cold, heat, heat, and defensive performance, and is endowed with divine protection that enhances the user's fighting ability. It also protects you from cold and heat.</AS_WHE_ElvenMantle.description>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!--失われた古代の技術-->
+  <!--GT: lost ancient technology-->
+  <!-- This may be a bit too generic and interfere with another research element in the future...-->
+  <AS_AncientTechnology.label>Lost Ancient Technology</AS_AncientTechnology.label>
+  <!--失われた古代の技術に関する知識を得る。-->
+  <!--GT: Gain knowledge of lost ancient technology.-->
+  <AS_AncientTechnology.description>Gain knowledge of lost ancient technology.</AS_AncientTechnology.description>
+
+  <!-- Slight grammar issues from the existing translation corrected.-->
+  <AS_Weapons.label>Ancient Species Basic Technology</AS_Weapons.label>
+  <AS_Weapons.description>Basic understanding of the technology used by certain ancient species. Several armaments can be created.</AS_Weapons.description>
+
+  <!--古代エルフの武器技術-->
+  <!--GT: ancient elf weapon technology-->
+  <AS_WAE_Weapons.label>Ancient Elf Weapons Technology</AS_WAE_Weapons.label>
+  <!--古代エルフが用いていた技術に関するもの。いくつかの武器が作成可能になる。-->
+  <!-- GT: Concerning the technology used by the ancient elves. Some weapons can be crafted.-->
+  <!-- Awkward machine translation, adjustments made.-->
+  <AS_WAE_Weapons.description>After examining the technology used by the Ancient Elves, some of their weapons can be crafted.</AS_WAE_Weapons.description>
+
+  <!--古代エルフの衣類製造技術-->
+  <!--GT: ancient elf clothing manufacturing techniques-->
+  <!--A bit long for research boxes, tried to condense it a bit.-->
+  <AS_WAE_Apparels.label>Ancient Elf Clothing</AS_WAE_Apparels.label>
+  <!--古代エルフが用いていた技術に関するもの。いくつかの衣服が作成可能になる。-->
+  <!-- GT: Concerning the technology used by the ancient elves. Some clothes can be crafted.-->
+  <!-- Awkward machine translation, adjustments made.-->
+  <AS_WAE_Apparels.description>After examining Ancient Elf technologies, some of their clothing can be crafted.</AS_WAE_Apparels.description>
+
+  <!--ハーフエルフの武具技術-->
+  <!--GT: Half-elf weapon technology-->
+  <AS_WHE_Weapons.label>Half-Elf Weapon Technology</AS_WHE_Weapons.label>
+  <!--ハーフエルフの知識、技術による武器が作成可能になる。-->
+  <!--GT: Weapons can be created with half-elf knowledge and skills.-->
+  <AS_WHE_Weapons.description>Weapons can be created with half-elf knowledge and skills.</AS_WHE_Weapons.description>
+
+  <!--ハーフエルフの古代武具技術-->
+  <!--GT: Half-elf ancient weapon technology-->
+  <AS_WHE_AncientTechnology.label>Half-Elf Ancient Weapon Technology</AS_WHE_AncientTechnology.label>
+  <!--ハーフエルフにより解析、改良された、古代種族の技術を用いた武具やアイテムが作成可能になる。-->
+  <!-- GT: It is possible to create arms and items using the technology of ancient races, analyzed and improved by half-elves.-->
+  <AS_WHE_AncientTechnology.description>It is possible to create arms and items using the technology of ancient races, analyzed and improved by half-elves.</AS_WHE_AncientTechnology.description>
+
+
+</LanguageData>

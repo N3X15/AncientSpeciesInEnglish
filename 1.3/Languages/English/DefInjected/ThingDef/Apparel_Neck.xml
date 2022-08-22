@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- ShieldScarf -->
+  <!--シールドスカーフ（ハーフエルフ）-->
+  <!-- GT: Shield Scarf (Half Elf)-->
+  <AS_WHE_ShieldScarf.label>Shield Scarf (Half-Elf)</AS_WHE_ShieldScarf.label>
+  <!--布、ハイパーウィーブを使い編まれたスカーフに、ハーフエルフの技術を用いてシールド機能を付けたもの。首周りの防護能力が非常に高い。-->
+  <!--GT: A scarf woven using cloth and hyperweave, with a shield function using half-elf technology. Very good protection around the neck.-->
+  <AS_WHE_ShieldScarf.description>A scarf woven using cloth and hyperweave, with a shield function using half-elf technology. Very good protection around the neck.</AS_WHE_ShieldScarf.description>
+
+
+</LanguageData>

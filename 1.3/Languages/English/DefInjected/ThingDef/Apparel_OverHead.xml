@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- フェザーヘルム（エンシェントエルフ） -->
+  <!--GT: Feather Helm (Ancient Elf)-->
+  <AS_WAE_FeatherHelm.label>Feather Helm (Ancient Elf)</AS_WAE_FeatherHelm.label>
+  <!--金属の額当てに、羽飾りで装飾されたヘルム。見た目の割にかなり高性能なものになっている。-->
+  <!-- GT: A helm decorated with feathers on a metal forehead. It looks pretty high performance.-->
+  <!-- wat. Reworked except for that last bit, which is just hilarious so I'm keeping it. -->
+  <AS_WAE_FeatherHelm.description>A helm decorated by putting feathers around the forehead. It looks pretty high performance.</AS_WAE_FeatherHelm.description>
+
+  <!-- Cute Ribon -->
+  <!-- 可愛いリボン（ハーフエルフ）-->
+  <!--GT: Cute ribbon (half elf)-->
+  <!-- Sorely tempted to leave in the original "Kawaii" transliteration since these elves are referred to in the original readme as "Weeb", but would be against the sprit of this mod.-->
+  <AS_WHE_CuteRibon.label>Cute Ribbon (Half-Elf)</AS_WHE_CuteRibon.label>
+  <!--丈夫さと可愛さを兼ね備えた可愛いリボン。-->
+  <!--GT: A cute ribbon that combines strength and cuteness.-->
+  <AS_WHE_CuteRibon.description>A cute ribbon that combines strength and cuteness.</AS_WHE_CuteRibon.description>
+
+</LanguageData>

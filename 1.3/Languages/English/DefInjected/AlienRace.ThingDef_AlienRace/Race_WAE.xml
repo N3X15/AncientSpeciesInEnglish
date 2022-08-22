@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--エンシェントエルフ-->
+  <!-- GT: ancient elf -->
+  <AS_WAE_Race.label>ancient elf</AS_WAE_Race.label>
+  <!--
+    Orig: エンシェントエルフは、一部の辺境の惑星に住んでいる種族です。\n人間の4倍ほどの寿命があり、ある特殊な器官の働きにより、身体能力もかなり優れています。\n非常に数が少なく、高額で取引されていますが、基本敵対的な場合が多い種族です。\nハーフエルフはこのエンシェントエルフを基にして造られた種族と言われていますが、一部ではこのエンシェントエルフ自体も、古代の技術で造られたのではないかという説があります。
+    GT: Ancient Elves are a race that live on some remote planets. \n They have four times the lifespan of humans, and due to the functioning of a special organ, they have excellent physical abilities. \nThere are very few of them, and they are traded at high prices, but they are a race that is often hostile. \n Half-elves are said to be a race based on the ancient elves, but there are some theories that the ancient elves themselves were created using ancient technology.
+    
+    The grammar was a bit janky, so I had to make some adjustments to get rid of dangling references and whatnot.  
+    Not really the fault of the original text, I just took too many damn English courses in college and grew overly sensitized to it.
+  -->
+  <AS_WAE_Race.description>Ancient Elves are a race that live on some remote planets.\nThey have four times the average lifespan of humans, and due to a special organ, they generally have excellent physical ability.\nThere are very few elves among the stars and they are traded at high prices, therefore they are a race that is often hostile to outsiders.\nHalf-elves are said to be a race based on the ancient elves, but there are some theories that the ancient elves themselves were created using ancient technology.</AS_WAE_Race.description>
+  <!-- Note: we are deliberately discarding keys we are not changing! -->
+</LanguageData>

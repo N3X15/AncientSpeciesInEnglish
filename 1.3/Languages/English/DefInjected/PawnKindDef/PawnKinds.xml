@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- villager -->
+  <!--エンシェントエルフの村人-->
+  <!-- GT: Ancient Elf Villager -->
+  <AS_WAE_Villager.label>ancient elf villager</AS_WAE_Villager.label>
+  <AS_WAE_Villager.labelPlural>ancient elf villagers</AS_WAE_Villager.labelPlural>
+  <AS_WAE_Villager.labelMale>male ancient elf villager</AS_WAE_Villager.labelMale>
+  <AS_WAE_Villager.labelMalePlural>male ancient elf villagers</AS_WAE_Villager.labelMalePlural>
+  <AS_WAE_Villager.labelFemale>female ancient elf villager</AS_WAE_Villager.labelFemale>
+  <AS_WAE_Villager.labelFemalePlural>female ancient elf villagers</AS_WAE_Villager.labelFemalePlural>
+
+
+  <!-- Hunter -->
+  <!--エルフの狩人-->
+  <AS_WAE_Hunter.label>hunter</AS_WAE_Hunter.label>
+  <AS_WAE_Hunter.labelPlural>hunters</AS_WAE_Hunter.labelPlural>
+  <AS_WAE_Hunter.labelMale>male hunter</AS_WAE_Hunter.labelMale>
+  <AS_WAE_Hunter.labelMalePlural>male hunters</AS_WAE_Hunter.labelMalePlural>
+  <AS_WAE_Hunter.labelFemale>female hunter</AS_WAE_Hunter.labelFemale>
+  <AS_WAE_Hunter.labelFemalePlural>female hunters</AS_WAE_Hunter.labelFemalePlural>
+
+
+  <!-- High hunter -->
+  <!--エルフの狩人-->
+  <!-- GT: elf hunter -->
+  <!-- I think this is incorrect and the author meant something like エルフハイハンター (elf high hunter) but w/e. -->
+  <AS_WAE_PKHunter.label>elf hunter</AS_WAE_PKHunter.label>
+  <AS_WAE_PKHunter.labelPlural>elf hunters</AS_WAE_PKHunter.labelPlural>
+  <AS_WAE_PKHunter.labelMale>male elf hunter</AS_WAE_PKHunter.labelMale>
+  <AS_WAE_PKHunter.labelMalePlural>male elf hunters</AS_WAE_PKHunter.labelMalePlural>
+  <AS_WAE_PKHunter.labelFemale>female elf hunter</AS_WAE_PKHunter.labelFemale>
+  <AS_WAE_PKHunter.labelFemalePlural>female elf hunters</AS_WAE_PKHunter.labelFemalePlural>
+
+
+  <!-- Knight -->
+  <!--エルフの騎士-->
+  <!-- GT: elf knight-->
+  <AS_WAE_Knight.label>elf knight</AS_WAE_Knight.label>
+  <AS_WAE_Knight.labelPlural>elf knights</AS_WAE_Knight.labelPlural>
+  <AS_WAE_Knight.labelMale>male elf knight</AS_WAE_Knight.labelMale>
+  <AS_WAE_Knight.labelMalePlural>male elf knights</AS_WAE_Knight.labelMalePlural>
+  <AS_WAE_Knight.labelFemale>female elf knight</AS_WAE_Knight.labelFemale>
+  <AS_WAE_Knight.labelFemalePlural>female elf knights</AS_WAE_Knight.labelFemalePlural>
+
+
+  <!-- Gardian Knight -->
+  <!--エルフの守護騎士-->
+  <!-- GT: elf guardian knight-->
+  <AS_WAE_PKKnight.label>elf guardian knight</AS_WAE_PKKnight.label>
+  <AS_WAE_PKKnight.labelPlural>elf guardian knights</AS_WAE_PKKnight.labelPlural>
+  <AS_WAE_PKKnight.labelMale>male elf guardian knight</AS_WAE_PKKnight.labelMale>
+  <AS_WAE_PKKnight.labelMalePlural>male elf guardian knights</AS_WAE_PKKnight.labelMalePlural>
+  <AS_WAE_PKKnight.labelFemale>female elf guardian knight</AS_WAE_PKKnight.labelFemale>
+  <AS_WAE_PKKnight.labelFemalePlural>female elf guardian knights</AS_WAE_PKKnight.labelFemalePlural>
+
+
+  <!-- PC Settings -->
+  <!-- Um. Harf -> Half. -->
+  <AS_WHE_Colonist.label>Half Elf Colonist</AS_WHE_Colonist.label>
+  <AS_WHE_Colonist.labelPlural>Half Elf Colonists</AS_WHE_Colonist.labelPlural>
+  <AS_WHE_Colonist.labelMale>male Half Elf Colonist</AS_WHE_Colonist.labelMale>
+  <AS_WHE_Colonist.labelMalePlural>male Half Elf Colonists</AS_WHE_Colonist.labelMalePlural>
+  <AS_WHE_Colonist.labelFemale>female Half Elf Colonist</AS_WHE_Colonist.labelFemale>
+  <AS_WHE_Colonist.labelFemalePlural>female Half Elf Colonists</AS_WHE_Colonist.labelFemalePlural>
+
+  <!-- elite villager -->
+  <!-- eliet -> elite -->
+  <AS_WHE_EliteVillager.label>Half Elf elite villager</AS_WHE_EliteVillager.label>
+  <AS_WHE_EliteVillager.labelPlural>Half Elf elite villagers</AS_WHE_EliteVillager.labelPlural>
+  <AS_WHE_EliteVillager.labelMale>male Half Elf elite villager</AS_WHE_EliteVillager.labelMale>
+  <AS_WHE_EliteVillager.labelMalePlural>male Half Elf elite villagers</AS_WHE_EliteVillager.labelMalePlural>
+  <AS_WHE_EliteVillager.labelFemale>female Half Elf elite villager</AS_WHE_EliteVillager.labelFemale>
+  <AS_WHE_EliteVillager.labelFemalePlural>female Half Elf elite villagers</AS_WHE_EliteVillager.labelFemalePlural>
+
+  <!-- eliete townspeople -->
+  <!-- s/eliete/elite/-->
+  <AS_WHE_EliteTownsPeople.label>Half Elf elite townspeople</AS_WHE_EliteTownsPeople.label>
+  <AS_WHE_EliteTownsPeople.labelPlural>Half Elf elite townspeoples</AS_WHE_EliteTownsPeople.labelPlural>
+  <AS_WHE_EliteTownsPeople.labelMale>male Half Elf elite townspeople</AS_WHE_EliteTownsPeople.labelMale>
+  <AS_WHE_EliteTownsPeople.labelMalePlural>male Half Elf elite townspeoples</AS_WHE_EliteTownsPeople.labelMalePlural>
+  <AS_WHE_EliteTownsPeople.labelFemale>female Half Elf elite townspeople</AS_WHE_EliteTownsPeople.labelFemale>
+  <AS_WHE_EliteTownsPeople.labelFemalePlural>female Half Elf elite townspeoples</AS_WHE_EliteTownsPeople.labelFemalePlural>
+
+</LanguageData>

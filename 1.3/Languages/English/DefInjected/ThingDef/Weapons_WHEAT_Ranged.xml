@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sniper Rifle -->
+  <!-- ペネトレーター -->
+  <!-- GT: Penetrator -->
+  <AS_WHEAT_Penetrator.label>Penetrator</AS_WHEAT_Penetrator.label>
+  <!-- ハーフエルフによって解析された古代技術を応用し、ASスナイパーライフルを元に改良、製造されたスナイパーライフル。 -->
+  <!-- GT: A sniper rifle that was improved and manufactured based on the AS sniper rifle by applying ancient technology analyzed by half-elves. -->
+  <AS_WHEAT_Penetrator.description>A sniper rifle that was improved and manufactured based on the Ancient Elf Sniper Rifle by applying ancient technology analyzed by half-elves.</AS_WHEAT_Penetrator.description>
+
+
+  <!-- Shotgun -->
+  <!-- グラヴェス -->
+  <!-- GT: Graves -->
+  <AS_WHEAT_Grawes.label>Graves</AS_WHEAT_Grawes.label>
+  <!-- ハーフエルフによって解析された古代技術を応用し、グラヴェールを改造したショットガン。 -->
+  <!-- GT: A shotgun that remodeled Gravel by applying ancient technology analyzed by half-elves. -->
+  <AS_WHEAT_Grawes.description>A shotgun that remade the Grawehr by applying ancient technology analyzed by half-elves.</AS_WHEAT_Grawes.description>
+
+
+  <!-- ThingDef Bullet -->
+  <!-- ハーフエルフ式大型高速徹甲榴弾 -->
+  <!-- GT: Half-elf type large high-speed armor-piercing high-explosive projectile -->
+  <AS_WHEAT_Bullet_Sniper_Rifle.label>Half-elf type large high-speed armor-piercing high-explosive projectile</AS_WHEAT_Bullet_Sniper_Rifle.label>
+  <!-- ハーフエルフ式高威力バックショット弾 -->
+  <!-- GT: Half-elf type high power buckshot bullet -->
+  <AS_WHEAT_Bullet_Shotgun_Backshot.label>Half-elf type high power buckshot</AS_WHEAT_Bullet_Shotgun_Backshot.label>
+
+
+</LanguageData>

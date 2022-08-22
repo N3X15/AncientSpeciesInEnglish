@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ショルダーバック -->
+  <!--GT: Shoulder bag-->
+  <AS_WHE_ShoulderBack.label>Shoulder Bag (Half-Elf)</AS_WHE_ShoulderBack.label>
+  <!--布で作られたショルダーパック。軽くて丈夫。-->
+  <!--GT:A shoulder pack made of cloth. Light and durable.-->
+  <AS_WHE_ShoulderBack.description>A shoulder pack made of cloth. Light and durable.</AS_WHE_ShoulderBack.description>
+
+
+</LanguageData>

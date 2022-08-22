@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 村民　子供 -->
+
+  <AS_WAE_Backstory_NormalChild.title>Elf Village Kid</AS_WAE_Backstory_NormalChild.title><!-- GT: Elf village kid -->
+  <AS_WAE_Backstory_NormalChild.titleShort>Village Kid</AS_WAE_Backstory_NormalChild.titleShort><!-- GT: Elf village kid -->
+  <AS_WAE_Backstory_NormalChild.baseDescription>[PAWN_nameDef] spent his childhood in an Elven village as [PAWN_pronoun].</AS_WAE_Backstory_NormalChild.baseDescription><!--NAME spent his childhood in a small elven settlement as NAME as NAME.-->
+
+
+  <!-- 奴隷　子供 -->
+
+  <!-- GT: elf child slave-->
+  <AS_WAE_Backstory_SlaveChild.title>Elf Child Slave</AS_WAE_Backstory_SlaveChild.title>
+  <AS_WAE_Backstory_SlaveChild.titleShort>Child Slave</AS_WAE_Backstory_SlaveChild.titleShort>
+  <!--[CAPWN_nameDef] has a history of being captured and sold as [CAPWN_pronoun].-->
+  <AS_WAE_Backstory_SlaveChild.baseDescription>[PAWN_nameDef] has a history of being captured and sold as [PAWN_pronoun]</AS_WAE_Backstory_SlaveChild.baseDescription>
+
+
+  <!-- エルフの狩人 -->
+  <!-- GT: elf hunter -->
+  <AS_WAE_Backstory_HunterAdult.title>Elf Hunter</AS_WAE_Backstory_HunterAdult.title>
+  <AS_WAE_Backstory_HunterAdult.titleShort>Hunter</AS_WAE_Backstory_HunterAdult.titleShort>
+  <!-- GT: NAME lived in a small village of Half El. It's PRONOUN.-->
+  <!-- So we have to get creative lol.-->
+  <AS_WAE_Backstory_HunterAdult.baseDescription>[PAWN_nameDef] was once [PAWN_pronoun] for a small village of Half-Elves.</AS_WAE_Backstory_HunterAdult.baseDescription>
+
+
+  <!-- エルフの奴隷 -->
+  <!-- GT: elf slave -->
+  <AS_WAE_Backstory_SlaveAdult.title>Elf Slave</AS_WAE_Backstory_SlaveAdult.title>
+  <AS_WAE_Backstory_SlaveAdult.titleShort>Slave</AS_WAE_Backstory_SlaveAdult.titleShort>
+  <!--[PAWN_nameDef]は、[PAWN_pronoun]だ。-->
+  <!--GT: NAME is PRONOUN.-->
+  <AS_WAE_Backstory_SlaveAdult.baseDescription>[PAWN_nameDef] was [PAWN_pronoun].</AS_WAE_Backstory_SlaveAdult.baseDescription>
+
+
+  <!-- エルフの民 -->
+  <!-- GT: elven people -->
+  <!-- Should be close enough. -->
+  <AS_WAE_Backstory_NormalAdult.title>Elf Civilian</AS_WAE_Backstory_NormalAdult.title>
+  <AS_WAE_Backstory_NormalAdult.titleShort>Civilian</AS_WAE_Backstory_NormalAdult.titleShort>
+  <AS_WAE_Backstory_NormalAdult.baseDescription>[PAWN_nameDef] was [PAWN_pronoun].</AS_WAE_Backstory_NormalAdult.baseDescription>
+
+
+  <!-- エルフの凄腕狩人 -->
+  <!-- GT: elf master hunter-->
+  <AS_WAE_Backstory_PKHunterAdult.title>Elf Master Hunter</AS_WAE_Backstory_PKHunterAdult.title>
+  <AS_WAE_Backstory_PKHunterAdult.titleShort>Master Hunter</AS_WAE_Backstory_PKHunterAdult.titleShort>
+  <!-- GT: NAME is one of the most skilled hunters in the village. It's PRONOUN. -->
+  <AS_WAE_Backstory_PKHunterAdult.baseDescription>[PAWN_nameDef] is one of the most skilled hunters in the village.</AS_WAE_Backstory_PKHunterAdult.baseDescription>
+
+
+  <!-- エルフの騎士 -->
+  <!-- GT: elf knight -->
+  <AS_WAE_Backstory_KnightAdult.title>Elf Knight</AS_WAE_Backstory_KnightAdult.title>
+  <AS_WAE_Backstory_KnightAdult.titleShort>Knight</AS_WAE_Backstory_KnightAdult.titleShort>
+  <!--NAMEは集落を敵から守る騎士だ。 PRONOUNだ。-->
+  <AS_WAE_Backstory_KnightAdult.baseDescription>[PAWN_nameDef] is [PAWN_pronoun] who can protect the village from enemies.</AS_WAE_Backstory_KnightAdult.baseDescription>
+
+
+  <!-- エルフの守護騎士 -->
+  <!-- GT: elf guardian knight -->
+  <AS_WAE_Backstory_PKKnightAdult.title>Elf Guardian Knight</AS_WAE_Backstory_PKKnightAdult.title>
+  <AS_WAE_Backstory_PKKnightAdult.titleShort>Guardian Knight</AS_WAE_Backstory_PKKnightAdult.titleShort>
+  <!-- GT: NAME is particularly strong among the knights who protect the village from enemies. It's PRONOUN. -->
+  <!-- Rewritten to avoid awkward grammar. -->
+  <AS_WAE_Backstory_PKKnightAdult.baseDescription>[PAWN_nameDef] is among the strongest of the knights that protect the village.</AS_WAE_Backstory_PKKnightAdult.baseDescription>
+
+
+  <!-- 村民　子供 -->
+  <AS_WHE_BackstoryChild_a.title>Half Elf Village Kid</AS_WHE_BackstoryChild_a.title>
+  <AS_WHE_BackstoryChild_a.titleShort>Village Kid</AS_WHE_BackstoryChild_a.titleShort>
+  <AS_WHE_BackstoryChild_a.baseDescription>[PAWN_nameDef] spent their childhood in a small Half Elf settlement.</AS_WHE_BackstoryChild_a.baseDescription>
+</LanguageData>
