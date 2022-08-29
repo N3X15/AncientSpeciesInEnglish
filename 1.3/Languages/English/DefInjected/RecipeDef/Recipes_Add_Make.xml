@@ -5,9 +5,10 @@
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench -->
-  <Make_AS_WAE_NobleCoat.label>make 貴族のコート(Ancient Elf)</Make_AS_WAE_NobleCoat.label>
-  <Make_AS_WAE_NobleCoat.description>Make 貴族のコート(Ancient Elf).</Make_AS_WAE_NobleCoat.description>
-  <Make_AS_WAE_NobleCoat.jobString>Making 貴族のコート(Ancient Elf).</Make_AS_WAE_NobleCoat.jobString>
+  <!--貴族のコート ->-->
+  <Make_AS_WAE_NobleCoat.label>make noble coat (Ancient Elf)</Make_AS_WAE_NobleCoat.label>
+  <Make_AS_WAE_NobleCoat.description>Make noble coat (Ancient Elf).</Make_AS_WAE_NobleCoat.description>
+  <Make_AS_WAE_NobleCoat.jobString>Making noble coat (Ancient Elf).</Make_AS_WAE_NobleCoat.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricSmithy, FueledSmithy -->
