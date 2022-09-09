@@ -13,12 +13,12 @@
 
   <!-- Hunter -->
   <!--エルフの狩人-->
-  <AS_WAE_Hunter.label>hunter</AS_WAE_Hunter.label>
-  <AS_WAE_Hunter.labelPlural>hunters</AS_WAE_Hunter.labelPlural>
-  <AS_WAE_Hunter.labelMale>male hunter</AS_WAE_Hunter.labelMale>
-  <AS_WAE_Hunter.labelMalePlural>male hunters</AS_WAE_Hunter.labelMalePlural>
-  <AS_WAE_Hunter.labelFemale>female hunter</AS_WAE_Hunter.labelFemale>
-  <AS_WAE_Hunter.labelFemalePlural>female hunters</AS_WAE_Hunter.labelFemalePlural>
+  <AS_WAE_Hunter.label>ancient elf hunter</AS_WAE_Hunter.label>
+  <AS_WAE_Hunter.labelPlural>ancient elf hunters</AS_WAE_Hunter.labelPlural>
+  <AS_WAE_Hunter.labelMale>ancient elf male hunter</AS_WAE_Hunter.labelMale>
+  <AS_WAE_Hunter.labelMalePlural>ancient elf male hunters</AS_WAE_Hunter.labelMalePlural>
+  <AS_WAE_Hunter.labelFemale>ancient elf female hunter</AS_WAE_Hunter.labelFemale>
+  <AS_WAE_Hunter.labelFemalePlural>ancient elf female hunters</AS_WAE_Hunter.labelFemalePlural>
 
 
   <!-- High hunter -->
@@ -57,29 +57,29 @@
 
   <!-- PC Settings -->
   <!-- Um. Harf -> Half. -->
-  <AS_WHE_Colonist.label>Half-Elf Colonist</AS_WHE_Colonist.label>
-  <AS_WHE_Colonist.labelPlural>Half-Elf Colonists</AS_WHE_Colonist.labelPlural>
-  <AS_WHE_Colonist.labelMale>male Half-Elf Colonist</AS_WHE_Colonist.labelMale>
-  <AS_WHE_Colonist.labelMalePlural>male Half-Elf Colonists</AS_WHE_Colonist.labelMalePlural>
-  <AS_WHE_Colonist.labelFemale>female Half-Elf Colonist</AS_WHE_Colonist.labelFemale>
-  <AS_WHE_Colonist.labelFemalePlural>female Half-Elf Colonists</AS_WHE_Colonist.labelFemalePlural>
+  <AS_WHE_Colonist.label>half-elf colonist</AS_WHE_Colonist.label>
+  <AS_WHE_Colonist.labelPlural>half-elf colonists</AS_WHE_Colonist.labelPlural>
+  <AS_WHE_Colonist.labelMale>male half-elf colonist</AS_WHE_Colonist.labelMale>
+  <AS_WHE_Colonist.labelMalePlural>male half-elf colonists</AS_WHE_Colonist.labelMalePlural>
+  <AS_WHE_Colonist.labelFemale>female half-elf colonist</AS_WHE_Colonist.labelFemale>
+  <AS_WHE_Colonist.labelFemalePlural>female half-elf colonists</AS_WHE_Colonist.labelFemalePlural>
 
   <!-- elite villager -->
   <!-- eliet -> elite -->
-  <AS_WHE_EliteVillager.label>Half-Elf elite villager</AS_WHE_EliteVillager.label>
-  <AS_WHE_EliteVillager.labelPlural>Half-Elf elite villagers</AS_WHE_EliteVillager.labelPlural>
-  <AS_WHE_EliteVillager.labelMale>male Half-Elf elite villager</AS_WHE_EliteVillager.labelMale>
-  <AS_WHE_EliteVillager.labelMalePlural>male Half-Elf elite villagers</AS_WHE_EliteVillager.labelMalePlural>
-  <AS_WHE_EliteVillager.labelFemale>female Half-Elf elite villager</AS_WHE_EliteVillager.labelFemale>
-  <AS_WHE_EliteVillager.labelFemalePlural>female Half-Elf elite villagers</AS_WHE_EliteVillager.labelFemalePlural>
+  <AS_WHE_EliteVillager.label>half-elf elite villager</AS_WHE_EliteVillager.label>
+  <AS_WHE_EliteVillager.labelPlural>half-elf elite villagers</AS_WHE_EliteVillager.labelPlural>
+  <AS_WHE_EliteVillager.labelMale>male half-elf elite villager</AS_WHE_EliteVillager.labelMale>
+  <AS_WHE_EliteVillager.labelMalePlural>male half-elf elite villagers</AS_WHE_EliteVillager.labelMalePlural>
+  <AS_WHE_EliteVillager.labelFemale>female half-elf elite villager</AS_WHE_EliteVillager.labelFemale>
+  <AS_WHE_EliteVillager.labelFemalePlural>female half-elf elite villagers</AS_WHE_EliteVillager.labelFemalePlural>
 
   <!-- eliete townspeople -->
   <!-- s/eliete/elite/-->
-  <AS_WHE_EliteTownsPeople.label>Half-Elf elite townspeople</AS_WHE_EliteTownsPeople.label>
-  <AS_WHE_EliteTownsPeople.labelPlural>Half-Elf elite townspeoples</AS_WHE_EliteTownsPeople.labelPlural>
-  <AS_WHE_EliteTownsPeople.labelMale>male Half-Elf elite townspeople</AS_WHE_EliteTownsPeople.labelMale>
-  <AS_WHE_EliteTownsPeople.labelMalePlural>male Half-Elf elite townspeoples</AS_WHE_EliteTownsPeople.labelMalePlural>
-  <AS_WHE_EliteTownsPeople.labelFemale>female Half-Elf elite townspeople</AS_WHE_EliteTownsPeople.labelFemale>
-  <AS_WHE_EliteTownsPeople.labelFemalePlural>female Half-Elf elite townspeoples</AS_WHE_EliteTownsPeople.labelFemalePlural>
+  <AS_WHE_EliteTownsPeople.label>half-elf elite townspeople</AS_WHE_EliteTownsPeople.label>
+  <AS_WHE_EliteTownsPeople.labelPlural>half-elf elite townspeoples</AS_WHE_EliteTownsPeople.labelPlural>
+  <AS_WHE_EliteTownsPeople.labelMale>male half-elf elite townspeople</AS_WHE_EliteTownsPeople.labelMale>
+  <AS_WHE_EliteTownsPeople.labelMalePlural>male half-elf elite townspeoples</AS_WHE_EliteTownsPeople.labelMalePlural>
+  <AS_WHE_EliteTownsPeople.labelFemale>female half-elf elite townspeople</AS_WHE_EliteTownsPeople.labelFemale>
+  <AS_WHE_EliteTownsPeople.labelFemalePlural>female half-elf elite townspeoples</AS_WHE_EliteTownsPeople.labelFemalePlural>
 
 </LanguageData>
