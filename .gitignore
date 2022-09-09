@@ -4,3 +4,8 @@
 /dist/
 .check-identity
 Ancient_Species_in_English.zip
+DEPLOY.bat
+DUMP_FROM_AS.bat
+*.py[cio]
+report.diff
+report.txt

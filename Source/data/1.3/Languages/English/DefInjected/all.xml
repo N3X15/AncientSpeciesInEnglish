@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LanguageData>
+  <AS_AT_Impact_Knuckles.description>テスト実装</AS_AT_Impact_Knuckles.description>
+  <AS_AT_Impact_Knuckles.label>インパクトナックル</AS_AT_Impact_Knuckles.label>
+  <AS_AncientTechnology.description>失われた古代の技術に関する知識を得る。</AS_AncientTechnology.description>
+  <AS_AncientTechnology.label>失われた古代の技術</AS_AncientTechnology.label>
+  <AS_Apparel.label>ancient sages apparel</AS_Apparel.label>
+  <AS_Apparel_Legs.label>ancient sages legs apparel</AS_Apparel_Legs.label>
+  <AS_Apparel_Middle.label>ancient sages middle apparel</AS_Apparel_Middle.label>
+  <AS_Apparel_Neck.label>ancient sages neck apparel</AS_Apparel_Neck.label>
+  <AS_Apparel_OnSkin.label>ancient sages onskin apparel</AS_Apparel_OnSkin.label>
+  <AS_Apparel_OverHead.label>ancient sages overhead apparel</AS_Apparel_OverHead.label>
+  <AS_Apparel_Shell.label>ancient sages shell apparel</AS_Apparel_Shell.label>
+  <AS_Apparel_UnderMiddle.label>ancient sages under middle apparel</AS_Apparel_UnderMiddle.label>
+  <AS_AssaultRifle.description>ある古代技術により作られた突撃銃。グリップが取り付けられており、射撃の命中精度と安定性を向上させている。</AS_AssaultRifle.description>
+  <AS_AssaultRifle.label>ASアサルトライフル</AS_AssaultRifle.label>
+  <AS_Backpack.label>back pack</AS_Backpack.label>
+  <AS_Bullet_Assault_Rifle.label>elven assault rifle bullet</AS_Bullet_Assault_Rifle.label>
+  <AS_Bullet_Hundgun.label>elven handgun</AS_Bullet_Hundgun.label>
+  <AS_Bullet_Rebel_Rifle.label>...</AS_Bullet_Rebel_Rifle.label>
+  <AS_Bullet_Shotgun.label>elven shotgun blast</AS_Bullet_Shotgun.label>
+  <AS_Bullet_Sniper_Rifle.label>elven sniper rifle bullet</AS_Bullet_Sniper_Rifle.label>
+  <AS_Coat.label>coat</AS_Coat.label>
+  <AS_Grawehr.description>榴弾を撃ち出すライフル。着弾地点に小さな爆発を発生させ、相手にダメージを与える。</AS_Grawehr.description>
+  <AS_Grawehr.label>グラヴェーア</AS_Grawehr.label>
+  <AS_Hair.label>エルフの髪型（WE）</AS_Hair.label>
+  <AS_Handgun.description>ある古代技術により作られた拳銃。バレルが長く、安定感があり、取り回しも良いデザイン、重量になっている。</AS_Handgun.description>
+  <AS_Handgun.label>ASハンドガン</AS_Handgun.label>
+  <AS_Neck.label>neck</AS_Neck.label>
+  <AS_ResearchTab.label>Ancient Species</AS_ResearchTab.label>
+  <AS_Shotgun.description>ある古代技術により作られたショットガン。</AS_Shotgun.description>
+  <AS_Shotgun.label>ASショットガン</AS_Shotgun.label>
+  <AS_SniperRifle.description>ASアサルトライフルのカスタム版。スコープが取り付けられており、より遠距離を射撃することに特化させている。</AS_SniperRifle.description>
+  <AS_SniperRifle.label>ASスナイパーライフル</AS_SniperRifle.label>
+  <AS_UnderMiddle.label>under middle</AS_UnderMiddle.label>
+  <AS_WAE_Apparels.description>古代エルフが用いていた技術に関するもの。いくつかの衣服が作成可能になる。</AS_WAE_Apparels.description>
+  <AS_WAE_Apparels.label>古代エルフの衣類製造技術</AS_WAE_Apparels.label>
+  <AS_WAE_Body.label>エンシェントエルフ</AS_WAE_Body.label>
+  <AS_WAE_Cultures.description>辺境の惑星で育まれてきたエンシェントエルフ達の一般的な文化。</AS_WAE_Cultures.description>
+  <AS_WAE_Cultures.label>エンシェントエルフの文化</AS_WAE_Cultures.label>
+  <AS_WAE_ElvenArrow.label>エルフの矢</AS_WAE_ElvenArrow.label>
+  <AS_WAE_FeatherHelm.description>金属の額当てに、羽飾りで装飾されたヘルム。見た目の割にかなり高性能なものになっている。</AS_WAE_FeatherHelm.description>
+  <AS_WAE_FeatherHelm.label>フェザーヘルム（エンシェントエルフ）</AS_WAE_FeatherHelm.label>
+  <AS_WAE_Hunter.label>エルフの狩人</AS_WAE_Hunter.label>
+  <AS_WAE_Knight.label>エルフの騎士</AS_WAE_Knight.label>
+  <AS_WAE_KnightDress.description>エンシェントエルフの騎士達が好んで使用する鎧。一見防御箇所が少ないように見えるが、特殊な力で体全体を保護している。また、着用者の戦闘を補助する効果がある。</AS_WAE_KnightDress.description>
+  <AS_WAE_KnightDress.label>姫騎士鎧（エンシェントエルフ）</AS_WAE_KnightDress.label>
+  <AS_WAE_NobleCoat.description>エンシェントエルフの貴族階級者が愛用している、戦闘用のコート。非常に丈夫なだけでなく、装備者の戦闘能力に補正がかかる。</AS_WAE_NobleCoat.description>
+  <AS_WAE_NobleCoat.label>貴族のコート（エンシェントエルフ）</AS_WAE_NobleCoat.label>
+  <AS_WAE_PKHunter.label>エルフの凄腕狩人</AS_WAE_PKHunter.label>
+  <AS_WAE_PKKnight.label>エルフの守護騎士</AS_WAE_PKKnight.label>
+  <AS_WAE_Race.description>エンシェントエルフは、一部の辺境の惑星に住んでいる種族です。\n人間の4倍ほどの寿命があり、ある特殊な器官の働きにより、身体能力もかなり優れています。\n非常に数が少なく、高額で取引されていますが、基本敵対的な場合が多い種族です。\nハーフエルフはこのエンシェントエルフを基にして造られた種族と言われていますが、一部ではこのエンシェントエルフ自体も、古代の技術で造られたのではないかという説があります。</AS_WAE_Race.description>
+  <AS_WAE_Race.label>エンシェントエルフ</AS_WAE_Race.label>
+  <AS_WAE_Settlement.description>エンシェントエルフ達の集落。</AS_WAE_Settlement.description>
+  <AS_WAE_Settlement.fixedName>エンシェントエルフ</AS_WAE_Settlement.fixedName>
+  <AS_WAE_Settlement.label>エンシェントエルフの集落</AS_WAE_Settlement.label>
+  <AS_WAE_Settlement.leaderTitle>Leader</AS_WAE_Settlement.leaderTitle>
+  <AS_WAE_Settlement.pawnsPlural>エンシェントエルフ達</AS_WAE_Settlement.pawnsPlural>
+  <AS_WAE_Villager.label>エンシェントエルフの村人</AS_WAE_Villager.label>
+  <AS_WAE_Weapons.description>古代エルフが用いていた技術に関するもの。いくつかの武器が作成可能になる。</AS_WAE_Weapons.description>
+  <AS_WAE_Weapons.label>古代エルフの武器技術</AS_WAE_Weapons.label>
+  <AS_WHEAT_Bullet_Shotgun_Backshot.label>ハーフエルフ式高威力バックショット弾</AS_WHEAT_Bullet_Shotgun_Backshot.label>
+  <AS_WHEAT_Bullet_Sniper_Rifle.label>ハーフエルフ式大型高速徹甲榴弾</AS_WHEAT_Bullet_Sniper_Rifle.label>
+  <AS_WHEAT_Grawes.description>ハーフエルフによって解析された古代技術を応用し、グラヴェールを改造したショットガン。</AS_WHEAT_Grawes.description>
+  <AS_WHEAT_Grawes.label>グラヴェス</AS_WHEAT_Grawes.label>
+  <AS_WHEAT_Penetrator.description>ハーフエルフによって解析された古代技術を応用し、ASスナイパーライフルを元に改良、製造されたスナイパーライフル。</AS_WHEAT_Penetrator.description>
+  <AS_WHEAT_Penetrator.label>ペネトレーター</AS_WHEAT_Penetrator.label>
+  <AS_WHE_AdvancedHelmet.description>より高度なハーフエルフの技術で作られた、金属製の頭部上面を守るヘルメット。前面部に付いているスクリーンにより、目も保護してくれる。</AS_WHE_AdvancedHelmet.description>
+  <AS_WHE_AdvancedHelmet.label>ハーフエルフ式先進型ヘルメット</AS_WHE_AdvancedHelmet.label>
+  <AS_WHE_AncientTechnology.description>ハーフエルフにより解析、改良された、古代種族の技術を用いた武具やアイテムが作成可能になる。</AS_WHE_AncientTechnology.description>
+  <AS_WHE_AncientTechnology.label>ハーフエルフの古代武具技術</AS_WHE_AncientTechnology.label>
+  <AS_WHE_Apparel.label>half elven apparel</AS_WHE_Apparel.label>
+  <AS_WHE_Apparel_Basic.description>ハーフエルフ達の簡単な衣類を作成するための技術。</AS_WHE_Apparel_Basic.description>
+  <AS_WHE_Apparel_Basic.label>ハーフエルフの簡単な衣類</AS_WHE_Apparel_Basic.label>
+  <AS_WHE_Apparel_Elementary.description>ハーフエルフ達の初歩的な衣類を作成するための技術。</AS_WHE_Apparel_Elementary.description>
+  <AS_WHE_Apparel_Elementary.label>ハーフエルフの初歩的な衣類</AS_WHE_Apparel_Elementary.label>
+  <AS_WHE_Apparel_Intermediate.description>ハーフエルフ達の複雑な衣類を作成するための技術。</AS_WHE_Apparel_Intermediate.description>
+  <AS_WHE_Apparel_Intermediate.label>ハーフエルフの複雑な衣類</AS_WHE_Apparel_Intermediate.label>
+  <AS_WHE_Apparel_Legs.label>half elven legs apparel</AS_WHE_Apparel_Legs.label>
+  <AS_WHE_Apparel_Middle.label>half elven middle apparel</AS_WHE_Apparel_Middle.label>
+  <AS_WHE_Apparel_Neck.label>half elven neck apparel</AS_WHE_Apparel_Neck.label>
+  <AS_WHE_Apparel_OnSkin.label>half elven onskin apparel</AS_WHE_Apparel_OnSkin.label>
+  <AS_WHE_Apparel_OverHead.label>half elven overhead apparel</AS_WHE_Apparel_OverHead.label>
+  <AS_WHE_Apparel_Shell.label>half elven shell apparel</AS_WHE_Apparel_Shell.label>
+  <AS_WHE_Apparel_Spacer.description>ハーフエルフたちの技術を応用した、高度な衣類を作成するための技術。</AS_WHE_Apparel_Spacer.description>
+  <AS_WHE_Apparel_Spacer.label>ハーフエルフの高度な衣類</AS_WHE_Apparel_Spacer.label>
+  <AS_WHE_Apparel_Tradable.label>売買可能なハーフエルフの衣服</AS_WHE_Apparel_Tradable.label>
+  <AS_WHE_Apparel_UnderMiddle.label>half elven under middle apparel</AS_WHE_Apparel_UnderMiddle.label>
+  <AS_WHE_Archer.label>Half Elf archer</AS_WHE_Archer.label>
+  <AS_WHE_BaseFaction.description>ハーフエルフFactionBase</AS_WHE_BaseFaction.description>
+  <AS_WHE_BaseFaction.label>WHE_FactionBase</AS_WHE_BaseFaction.label>
+  <AS_WHE_BaseFaction.leaderTitle>Leader</AS_WHE_BaseFaction.leaderTitle>
+  <AS_WHE_BaseFaction.pawnsPlural>ハーフエルフ達</AS_WHE_BaseFaction.pawnsPlural>
+  <AS_WHE_BionicEar.description>バイオニックハーフエルフ耳を付ける。</AS_WHE_BionicEar.description>
+  <AS_WHE_BionicEar.label>バイオニックハーフエルフ耳</AS_WHE_BionicEar.label>
+  <AS_WHE_Body.label>ハーフエルフ</AS_WHE_Body.label>
+  <AS_WHE_BulletProofVest.description>スチール、プラスチールと布で作られたシンプルな防弾ベスト。プラスチールを混ぜることで、軽く丈夫に仕上がっている。</AS_WHE_BulletProofVest.description>
+  <AS_WHE_BulletProofVest.label>防弾ベスト（ハーフエルフ）</AS_WHE_BulletProofVest.label>
+  <AS_WHE_Cape.description>皮や布で作られた肩掛け。寒さと攻撃から身を守ります。</AS_WHE_Cape.description>
+  <AS_WHE_Cape.label>ケープ（ハーフエルフ）</AS_WHE_Cape.label>
+  <AS_WHE_Caravan_Brigade.label>旅団</AS_WHE_Caravan_Brigade.label>
+  <AS_WHE_Caravan_Free_Marchant.label>雑貨屋</AS_WHE_Caravan_Free_Marchant.label>
+  <AS_WHE_CarbonArrow.label>カーボン矢</AS_WHE_CarbonArrow.label>
+  <AS_WHE_Citizen.label>Half Elf citizen</AS_WHE_Citizen.label>
+  <AS_WHE_Colonist.label>Harf Elf Colonist</AS_WHE_Colonist.label>
+  <AS_WHE_Cultures.description>創造主である人間達の文化を基礎に、辺境の惑星で作り上げられてきた文化。</AS_WHE_Cultures.description>
+  <AS_WHE_Cultures.label>ハーフエルフの文化</AS_WHE_Cultures.label>
+  <AS_WHE_CuteRibon.description>丈夫さと可愛さを兼ね備えた可愛いリボン。</AS_WHE_CuteRibon.description>
+  <AS_WHE_CuteRibon.label>可愛いリボン（ハーフエルフ）</AS_WHE_CuteRibon.label>
+  <AS_WHE_EliteCitizen.label>Half Elf elite citizen</AS_WHE_EliteCitizen.label>
+  <AS_WHE_EliteTownsPeople.label>Half Elf eliete townspeople</AS_WHE_EliteTownsPeople.label>
+  <AS_WHE_EliteVillager.label>Half Elf eliet villager</AS_WHE_EliteVillager.label>
+  <AS_WHE_ElvenMantle.description>古代エルフの技術で作られたマント。金による紋様が編みこまれた優雅なデザインになっている。非常に丈夫な素材で作られており、防寒、耐暑、耐熱、防御性能に優れ、使用者の格闘能力を高める加護が付与されている。また、寒さや暑さからも身を守ります。</AS_WHE_ElvenMantle.description>
+  <AS_WHE_ElvenMantle.label>エルブンマント（ハーフエルフ）</AS_WHE_ElvenMantle.label>
+  <AS_WHE_ElvenPoncho.description>古代エルフの技術で作られたポンチョ。金による紋様が編みこまれた優雅なデザインになっている。非常に丈夫な素材で作られており、防寒、耐暑、耐熱、防御性能に優れ、使用者の射撃能力を高める加護が付与されている。また、寒さや暑さからも身を守ります。</AS_WHE_ElvenPoncho.description>
+  <AS_WHE_ElvenPoncho.label>エルブンポンチョ（ハーフエルフ）</AS_WHE_ElvenPoncho.label>
+  <AS_WHE_ElvenPowerArrow.label>エルフの強化矢</AS_WHE_ElvenPowerArrow.label>
+  <AS_WHE_EngineerTrait.degreeDatas.0.description>古代種族の技術について興味を持っており、それを使ってハーフエルフの技術を向上させるために学んでいる。</AS_WHE_EngineerTrait.degreeDatas.0.description>
+  <AS_WHE_EngineerTrait.degreeDatas.0.label>ハーフエルフの技術士見習い</AS_WHE_EngineerTrait.degreeDatas.0.label>
+  <AS_WHE_EngineerTrait.degreeDatas.1.description>古代種族の技術について知識を持ち、ハーフエルフの技術と組み合わせて技術を向上させることに取り組んでいる。</AS_WHE_EngineerTrait.degreeDatas.1.description>
+  <AS_WHE_EngineerTrait.degreeDatas.1.label>ハーフエルフの技術士</AS_WHE_EngineerTrait.degreeDatas.1.label>
+  <AS_WHE_EngineerTrait.degreeDatas.2.description>古代種族の技術について知識を持ち、それを活かしたハーフエルの技術についての技術、経験を持っている。</AS_WHE_EngineerTrait.degreeDatas.2.description>
+  <AS_WHE_EngineerTrait.degreeDatas.2.label>ハーフエルフの機工士</AS_WHE_EngineerTrait.degreeDatas.2.label>
+  <AS_WHE_Fighter.label>Half Elf fighter</AS_WHE_Fighter.label>
+  <AS_WHE_GarterBelt.description>ガーターベルトです。美しい体の上を走る一本のベルトは、着用者の魅力を最大限に引き出すでしょう。</AS_WHE_GarterBelt.description>
+  <AS_WHE_GarterBelt.label>ガーターベルト（ハーフエルフ）</AS_WHE_GarterBelt.label>
+  <AS_WHE_Gunner.label>Half Elf gunner</AS_WHE_Gunner.label>
+  <AS_WHE_Hair_01.label>AS ツインテール１</AS_WHE_Hair_01.label>
+  <AS_WHE_Hair_02.label>AS ロングヘアー１</AS_WHE_Hair_02.label>
+  <AS_WHE_Hair_03.label>AS ロングヘアー２</AS_WHE_Hair_03.label>
+  <AS_WHE_Hair_04.label>AS ポニーテール１</AS_WHE_Hair_04.label>
+  <AS_WHE_Hair_05.label>AS ショートヘアー１</AS_WHE_Hair_05.label>
+  <AS_WHE_Hair_06.label>AS ボブカット１</AS_WHE_Hair_06.label>
+  <AS_WHE_Hair_07.label>AS ミドルショート１</AS_WHE_Hair_07.label>
+  <AS_WHE_Hair_08.label>AS ショートヘアー２</AS_WHE_Hair_08.label>
+  <AS_WHE_Hair_09.label>AS ハーフアップ１</AS_WHE_Hair_09.label>
+  <AS_WHE_Hair_10.label>AS ツインテール２</AS_WHE_Hair_10.label>
+  <AS_WHE_Hair_11.label>AS ロングヘアー３</AS_WHE_Hair_11.label>
+  <AS_WHE_Helmet.description>金属製の頭部上面を守るヘルメット。シンプルながらも丈夫に作られている。</AS_WHE_Helmet.description>
+  <AS_WHE_Helmet.label>ヘルメット（ハーフエルフ）</AS_WHE_Helmet.label>
+  <AS_WHE_Horn.description>頭に取り付けられる付け角です。何も特殊な効果はありませんが、見た目がちょっぴりかっこよくなります。Cool and cute！なお着脱は簡単です。</AS_WHE_Horn.description>
+  <AS_WHE_Horn.label>付け角（ハーフエルフ）</AS_WHE_Horn.label>
+  <AS_WHE_Hunter.label>Half Elf hunter</AS_WHE_Hunter.label>
+  <AS_WHE_InstallBionicEar.description>バイオニックハーフエルフ耳を付ける。</AS_WHE_InstallBionicEar.description>
+  <AS_WHE_InstallBionicEar.jobString>バイオニックハーフエルフ耳を付ける。</AS_WHE_InstallBionicEar.jobString>
+  <AS_WHE_InstallBionicEar.label>バイオニックハーフエルフ耳を付ける</AS_WHE_InstallBionicEar.label>
+  <AS_WHE_Knight.label>Half Elf knight</AS_WHE_Knight.label>
+  <AS_WHE_MaidHairBand.description>メイドさんが頭部に着けるカチューシャ。メイド服とセットで身に着けると、貴女も完璧で瀟洒なメイドになれるでしょう。</AS_WHE_MaidHairBand.description>
+  <AS_WHE_MaidHairBand.label>メイドカチューシャ（ハーフエルフ）</AS_WHE_MaidHairBand.label>
+  <AS_WHE_MaidWare.description>軽く、丈夫なメイド服。ロングスカートのゆったりとした、シックなデザインなっている。装着するとメイドとしての矜持により、少しだけ移動速度と作業速度が上がります。</AS_WHE_MaidWare.description>
+  <AS_WHE_MaidWare.label>メイド服（ハーフエルフ）</AS_WHE_MaidWare.label>
+  <AS_WHE_MarineArmor.description>ハーフエルフ式の高い強度を持つ高性能アーマーです。</AS_WHE_MarineArmor.description>
+  <AS_WHE_MarineArmor.label>ハーフエルフ式マリーンアーマー</AS_WHE_MarineArmor.label>
+  <AS_WHE_MarineHelmet.description>ハーフエルフの技術を応用して作られたマリーンヘルメット。強度、軽さ共に高次元にまとめられており、耳の長いハーフエルフでも着脱しやすいようになっている。</AS_WHE_MarineHelmet.description>
+  <AS_WHE_MarineHelmet.label>ハーフエルフ式マリーンヘルメット</AS_WHE_MarineHelmet.label>
+  <AS_WHE_Neeso.description>皮や布で作られたニーソックス。</AS_WHE_Neeso.description>
+  <AS_WHE_Neeso.label>ニーソックス（ハーフエルフ）</AS_WHE_Neeso.label>
+  <AS_WHE_Parka.description>皮や布で作られたパーカー。寒さと攻撃から身を守り、多少ですが耐暑性能もあります。</AS_WHE_Parka.description>
+  <AS_WHE_Parka.label>パーカー（ハーフエルフ）</AS_WHE_Parka.label>
+  <AS_WHE_PlateArmor.description>金属で作られたハーフエルフ式のプレートアーマー。首、胴体、肩、腕を守ってくれ、非常に丈夫だが、若干重い。</AS_WHE_PlateArmor.description>
+  <AS_WHE_PlateArmor.label>ハーフエルフ式プレートアーマー</AS_WHE_PlateArmor.label>
+  <AS_WHE_PlayerFaction_Neolithic.description>ハーフエルフたちが暮らす集落。</AS_WHE_PlayerFaction_Neolithic.description>
+  <AS_WHE_PlayerFaction_Neolithic.label>ハーフエルフのコロニー</AS_WHE_PlayerFaction_Neolithic.label>
+  <AS_WHE_PlayerFaction_Neolithic.pawnsPlural>ハーフエルフ達</AS_WHE_PlayerFaction_Neolithic.pawnsPlural>
+  <AS_WHE_PressureResistantHelmet.description>宇宙空間でも行動できるように、高度な技術で作成されたヘルメット。マリーン装備より若干弱いが、耐熱、耐寒性能が高い。</AS_WHE_PressureResistantHelmet.description>
+  <AS_WHE_PressureResistantHelmet.label>ハーフエルフ式耐圧ヘルメット</AS_WHE_PressureResistantHelmet.label>
+  <AS_WHE_PressureResistantSuits.description>宇宙空間でも行動できるように、高度な技術で作成されたスーツ。マリーン装備より若干弱いが、耐熱、耐寒性能が高い。</AS_WHE_PressureResistantSuits.description>
+  <AS_WHE_PressureResistantSuits.label>耐圧スーツ</AS_WHE_PressureResistantSuits.label>
+  <AS_WHE_Race.description>ハーフエルフはグリッターワールドの技術を駆使し、人間とエルフの特徴を組み合わせ造られた種族です。\n本来存在し得ない辺境の惑星に住んでいるこの種族は、宙族の間で違法に売買されていた個体が、宇宙船のトラブルにより辺境の惑星に不時着し、定住したものだと思われています。\n射撃・狩猟・栽培・調理など、全般的に優れた能力を持ち、サバイバル能力は高いですが、閉鎖的で、かなりの機械音痴です。</AS_WHE_Race.description>
+  <AS_WHE_Race.label>ハーフエルフ</AS_WHE_Race.label>
+  <AS_WHE_Scarf.description>布で編まれたスカーフで、首の防護を上げつつ、寒さへの耐性を得ることが出来る。シンプルなデザインではあるが、風になびかせ颯爽と移動するその姿は、見る者の胸に小さな火を灯すかもしれない。</AS_WHE_Scarf.description>
+  <AS_WHE_Scarf.label>スカーフ（ハーフエルフ）</AS_WHE_Scarf.label>
+  <AS_WHE_Scenario.description>彼らは宙族の人狩りに合い、逃げ出したハーフエルフ達です。開始時点は3人で、逃亡途中に散り散りになった者たちが7人います。</AS_WHE_Scenario.description>
+  <AS_WHE_Scenario.label>[ハーフエルフ]逃亡の果てに</AS_WHE_Scenario.label>
+  <AS_WHE_Settlement.description>ハーフエルフ達の集落。</AS_WHE_Settlement.description>
+  <AS_WHE_Settlement.label>ハーフエルフの集落</AS_WHE_Settlement.label>
+  <AS_WHE_ShieldScarf.description>布、ハイパーウィーブを使い編まれたスカーフに、ハーフエルフの技術を用いてシールド機能を付けたもの。首周りの防護能力が非常に高い。</AS_WHE_ShieldScarf.description>
+  <AS_WHE_ShieldScarf.label>シールドスカーフ（ハーフエルフ）</AS_WHE_ShieldScarf.label>
+  <AS_WHE_ShirtButton.description>ボタンの付いたおしゃれなシャツとスカート。シックなデザインで着用者の可愛さを引き立てています。</AS_WHE_ShirtButton.description>
+  <AS_WHE_ShirtButton.label>ボタンシャツ（ハーフエルフ）</AS_WHE_ShirtButton.label>
+  <AS_WHE_Shooter.label>Half Elf shooter</AS_WHE_Shooter.label>
+  <AS_WHE_ShortPants.description>シンプルなショートパンツです。生地が少なく、見るものに訴えかける素敵なデザインですが、防御力は低いです。</AS_WHE_ShortPants.description>
+  <AS_WHE_ShortPants.label>ショートパンツ（ハーフエルフ）</AS_WHE_ShortPants.label>
+  <AS_WHE_ShoulderBack.description>布で作られたショルダーパック。軽くて丈夫。</AS_WHE_ShoulderBack.description>
+  <AS_WHE_ShoulderBack.label>ショルダーバック（ハーフエルフ）</AS_WHE_ShoulderBack.label>
+  <AS_WHE_SimplePoncho.description>皮や布で作られたシンプルなデザインのポンチョ。パーカーほど丈夫ではないが、寒さ対策には非常に有効。</AS_WHE_SimplePoncho.description>
+  <AS_WHE_SimplePoncho.label>シンプルなポンチョ（ハーフエルフ）</AS_WHE_SimplePoncho.label>
+  <AS_WHE_Slave.label>Half Elf Slave</AS_WHE_Slave.label>
+  <AS_WHE_StripeNeeso.description>皮や布で作られた、縞模様入りの高品質ニーソックス。</AS_WHE_StripeNeeso.description>
+  <AS_WHE_StripeNeeso.label>ストライプニーソックス（ハーフエルフ）</AS_WHE_StripeNeeso.label>
+  <AS_WHE_TShirts.description>シンプルなTシャツです。生地は薄く、あまり防御力はありません。雨に濡れても透ける機能はありません。</AS_WHE_TShirts.description>
+  <AS_WHE_TShirts.label>Tシャツ（ハーフエルフ）</AS_WHE_TShirts.label>
+  <AS_WHE_TankTop.description>動きやすいタンクトップとボトムズです。丈夫なため、フィールドワークに向いています。付属の胸飾りがワンポイントです。</AS_WHE_TankTop.description>
+  <AS_WHE_TankTop.label>タンクトップ（ハーフエルフ）</AS_WHE_TankTop.label>
+  <AS_WHE_Town.description>ハーフエルフ達の街。</AS_WHE_Town.description>
+  <AS_WHE_Town.label>ハーフエルフの街</AS_WHE_Town.label>
+  <AS_WHE_TownsPeople.label>Half Elf townspeople</AS_WHE_TownsPeople.label>
+  <AS_WHE_Trader.label>Half Elf trader</AS_WHE_Trader.label>
+  <AS_WHE_Tribal.description>原始的なツールを使って作られた衣服です。僅かですが断熱効果があります。</AS_WHE_Tribal.description>
+  <AS_WHE_Tribal.label>一枚布（ハーフエルフ）</AS_WHE_Tribal.label>
+  <AS_WHE_UnderwearA.description>皮や布で作られたノーマルな下着。</AS_WHE_UnderwearA.description>
+  <AS_WHE_UnderwearA.label>下着（ハーフエルフ）</AS_WHE_UnderwearA.label>
+  <AS_WHE_UnderwearB.description>皮や布で作られた下着。フリルが施されており、可愛い仕上がりになっている。大切な日に着用すると、着用者に幸運が訪れるという噂があるとかないとか。</AS_WHE_UnderwearB.description>
+  <AS_WHE_UnderwearB.label>ピンクのフリル下着（ハーフエルフ）</AS_WHE_UnderwearB.label>
+  <AS_WHE_UnderwearC.description>皮や布で作られた下着。フリルが施されており、可愛い仕上がりになっている。大切な日に着用すると、着用者に幸運が訪れるという噂があるとかないとか。</AS_WHE_UnderwearC.description>
+  <AS_WHE_UnderwearC.label>青いフリル下着（ハーフエルフ）</AS_WHE_UnderwearC.label>
+  <AS_WHE_UnderwearD.description>皮や布で作られたセクシーな下着。そのデザインは相手の心をはやらせ、初心な相手であるほど平静さを忘れさせます。きっと互いに幸福感で満たされることでしょう。</AS_WHE_UnderwearD.description>
+  <AS_WHE_UnderwearD.label>セクシーな下着（ハーフエルフ）</AS_WHE_UnderwearD.label>
+  <AS_WHE_UnderwearE.description>皮や布で作られた下着？そのデザインは最早言葉で語ることすら憚られる、業の深い代物である。その魅力にパートナーは心が満たされ、より強い絆で結ばれることだろう。</AS_WHE_UnderwearE.description>
+  <AS_WHE_UnderwearE.label>スマートインナー（ハーフエルフ）</AS_WHE_UnderwearE.label>
+  <AS_WHE_UnderwearF.description>セクシーなベイビードールです。大切な部分をしっかり保護しつつも、諸所が透けて見えるそのデザインは夜戦に最適でしょう。</AS_WHE_UnderwearF.description>
+  <AS_WHE_UnderwearF.label>ベイビードール（ハーフエルフ）</AS_WHE_UnderwearF.label>
+  <AS_WHE_UnderwearG.description>白を基調にした、高級なベイビードールです。上品なデザインなだけでなく、女性の魅力を際立たせるよう、セクシーさをちりばめた一級品です。</AS_WHE_UnderwearG.description>
+  <AS_WHE_UnderwearG.label>白のベイビードール（ハーフエルフ）</AS_WHE_UnderwearG.label>
+  <AS_WHE_UnderwearH.description>黒を基調にした、高級なベイビードールです。上品なデザインなだけでなく、女性の魅力を際立たせるよう、セクシーさをちりばめた一級品です。</AS_WHE_UnderwearH.description>
+  <AS_WHE_UnderwearH.label>黒のベイビードール（ハーフエルフ）</AS_WHE_UnderwearH.label>
+  <AS_WHE_UnderwearI.description>高級なベイビードールです。上品なデザインなだけでなく、女性の魅力を際立たせるよう、セクシーさをちりばめた一級品です。</AS_WHE_UnderwearI.description>
+  <AS_WHE_UnderwearI.label>高級ベイビードール（ハーフエルフ）</AS_WHE_UnderwearI.label>
+  <AS_WHE_Village.description>ハーフエルフ達の村。</AS_WHE_Village.description>
+  <AS_WHE_Village.label>ハーフエルフの村</AS_WHE_Village.label>
+  <AS_WHE_Villager.label>Half Elf villager</AS_WHE_Villager.label>
+  <AS_WHE_WAEArmor_Re.description>ハーフエルフの技術で再現された、古代エルフのプレートアーマーのレプリカ。ウラニウムが用いられており、全体的に黒い仕上がりになっている。高い防御力を誇るだけでなく、着用者の近接戦闘能力を高めてくれる効果がある。</AS_WHE_WAEArmor_Re.description>
+  <AS_WHE_WAEArmor_Re.label>古代エルフのプレートアーマー</AS_WHE_WAEArmor_Re.label>
+  <AS_WHE_WAESword.description>エンシェントエルフの技術で製造された剣。刀身にはウラニウムが用いられており、非常に丈夫で、単純な切れ味も高い。</AS_WHE_WAESword.description>
+  <AS_WHE_WAESword.label>古代エルフの剣</AS_WHE_WAESword.label>
+  <AS_WHE_WAESword_Re.description>ハーフエルフの技術で再現された、古代エルフの剣のレプリカ。刀身にはウラニウムが用いられており、黒い仕上がりになっている。</AS_WHE_WAESword_Re.description>
+  <AS_WHE_WAESword_Re.label>古代エルフの剣（レプリカ）</AS_WHE_WAESword_Re.label>
+  <AS_WHE_Warrior.label>Half Elf warrior</AS_WHE_Warrior.label>
+  <AS_WHE_Weapons.description>ハーフエルフの知識、技術による武器が作成可能になる。</AS_WHE_Weapons.description>
+  <AS_WHE_Weapons.label>ハーフエルフの武具技術</AS_WHE_Weapons.label>
+  <AS_Weapons.description>ある古代種族が用いていた技術に関する基礎的なもの。いくつかの武具が作成可能になる。</AS_Weapons.description>
+  <AS_Weapons.label>古代種族の基礎的な武具技術</AS_Weapons.label>
+  <AS_Webbing.label>webbing</AS_Webbing.label>
+  <AS_WeebElf_ManaTrait.degreeDatas.0.description>空気中に存在するマナのエネルギーを生み出し、保持する器官を体内に持っており、オドエネルギーへ高効率な変換が可能となっている。</AS_WeebElf_ManaTrait.degreeDatas.0.description>
+  <AS_WeebElf_ManaTrait.degreeDatas.0.label>マナエネルギー変換</AS_WeebElf_ManaTrait.degreeDatas.0.label>
+  <AS_WeebElf_OdTrait.degreeDatas.0.description>空気中に存在するマナエネルギーを取り込み、オドというエネルギーに変換する器官がわずかに発達しており、体内にため込む性質を持っている。</AS_WeebElf_OdTrait.degreeDatas.0.description>
+  <AS_WeebElf_OdTrait.degreeDatas.0.label>オドエネルギー蓄積（小）</AS_WeebElf_OdTrait.degreeDatas.0.label>
+  <AS_WeebElf_OdTrait.degreeDatas.1.description>空気中に存在するマナエネルギーを取り込み、オドというエネルギーに変換する器官が発達しており、体内にため込む性質を持っている。</AS_WeebElf_OdTrait.degreeDatas.1.description>
+  <AS_WeebElf_OdTrait.degreeDatas.1.label>オドエネルギー蓄積（中）</AS_WeebElf_OdTrait.degreeDatas.1.label>
+  <AS_WeebElf_OdTrait.degreeDatas.2.description>空気中に存在するマナエネルギーを取り込み、オドというエネルギーに変換する器官がかなり発達しており、体内にため込む性質を持っている。</AS_WeebElf_OdTrait.degreeDatas.2.description>
+  <AS_WeebElf_OdTrait.degreeDatas.2.label>オドエネルギー蓄積（大）</AS_WeebElf_OdTrait.degreeDatas.2.label>
+  <AS_WeebElf_OdTrait.degreeDatas.3.description>空気中に存在するマナエネルギーを取り込み、オドというエネルギーに変換する器官が非常に発達しており、体内にため込む性質を持っている。</AS_WeebElf_OdTrait.degreeDatas.3.description>
+  <AS_WeebElf_OdTrait.degreeDatas.3.label>オドエネルギー蓄積（極大）</AS_WeebElf_OdTrait.degreeDatas.3.label>
+  <AS_legs.label>leg</AS_legs.label>
+  <WAE_ElvenBow_Origin.description>古代エルフが使っていた一般的な弓です。一般的な弓より強力で、連射性能が高く、飛距離もあります。</WAE_ElvenBow_Origin.description>
+  <WAE_ElvenBow_Origin.label>エルブンボウ</WAE_ElvenBow_Origin.label>
+  <WHE_CompoundBow.description>ハーフエルフの技術と、滑車やてこの原理などを用いて作られた大型の半機械弓。連射性能、飛距離、命中精度、威力が高いが、接近戦での取り回しが悪い。</WHE_CompoundBow.description>
+  <WHE_CompoundBow.label>コンパウンドボウ（ハーフエルフ）</WHE_CompoundBow.label>
+  <WHE_ElvenBow.description>古代エルフが使っていた一般的な弓の再現版です。オリジナルに性能は劣りますが、一般的な弓より強力で、連射性能があります。</WHE_ElvenBow.description>
+  <WHE_ElvenBow.label>エルブンボウ（ハーフエルフ）</WHE_ElvenBow.label>
+  <WHE_ElvenCompoundBow.description>ハーフエルフの技術と、エルフの古代技術、現代の技術を合わせて作られた大型の半機械弓。コンパウンドボウと比較し、連射性能、飛距離がさらに強化され、命中精度も向上している。</WHE_ElvenCompoundBow.description>
+  <WHE_ElvenCompoundBow.label>エルブンコンパウンドボウ（ハーフエルフ）</WHE_ElvenCompoundBow.label>
+</LanguageData>

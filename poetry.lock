@@ -396,6 +396,20 @@ doc = ["mkdocs (>=1.1.2,<2.0.0)", "mkdocs-material (>=8.1.4,<9.0.0)", "mdx-inclu
 test = ["shellingham (>=1.3.0,<2.0.0)", "pytest (>=4.4.0,<5.4.0)", "pytest-cov (>=2.10.0,<3.0.0)", "coverage (>=5.2,<6.0)", "pytest-xdist (>=1.32.0,<2.0.0)", "pytest-sugar (>=0.9.4,<0.10.0)", "mypy (==0.910)", "black (>=22.3.0,<23.0.0)", "isort (>=5.0.6,<6.0.0)"]
 
 [[package]]
+name = "types-lxml"
+version = "2022.4.10"
+description = "Type annotations for lxml striving for completeness"
+category = "dev"
+optional = false
+python-versions = ">=3.8"
+
+[package.dependencies]
+lxml = "*"
+
+[package.extras]
+extra = ["types-beautifulsoup4", "types-html5lib"]
+
+[[package]]
 name = "typing-extensions"
 version = "4.3.0"
 description = "Backported and Experimental Type Hints for Python 3.7+"
@@ -419,7 +433,7 @@ socks = ["PySocks (>=1.5.6,!=1.5.7,<2.0)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "df692e64bbeff1ba7241fec21415c31606fc877542d924bf39b6de7bff04d06f"
+content-hash = "75a9c13b6cb39865fab4874fd70ffc888b1591d7e79a4a595434c700dd1f2036"
 
 [metadata.files]
 beautifulsoup4 = []
@@ -603,5 +617,9 @@ tqdm = [
     {file = "tqdm-4.64.0.tar.gz", hash = "sha256:40be55d30e200777a307a7585aee69e4eabb46b4ec6a4b4a5f2d9f11e7d5408d"},
 ]
 typer = []
+types-lxml = [
+    {file = "types-lxml-2022.4.10.tar.gz", hash = "sha256:5005a8dfc90a3ee2569dc85fa2d5c6642c9885ba156d517b009bbb4ae5244289"},
+    {file = "types_lxml-2022.4.10-py3-none-any.whl", hash = "sha256:c5df01c0be6d1cc542c7f6e6d3af2d7ba0c50907a4a13ad217e7b95ab597c269"},
+]
 typing-extensions = []
 urllib3 = []
