@@ -48,9 +48,9 @@
   <Make_AS_WHE_SimplePoncho.description>Make a simple poncho (half-elf) .</Make_AS_WHE_SimplePoncho.description>
   <Make_AS_WHE_SimplePoncho.jobString>Making a simple poncho (half elf).</Make_AS_WHE_SimplePoncho.jobString>
 
-  <Make_AS_WHE_ElvenPoncho.label>make Elven Poncho (Half Elf)</Make_AS_WHE_ElvenPoncho.label>
-  <Make_AS_WHE_ElvenPoncho.description>Make Elven Poncho (Half Elf) .</Make_AS_WHE_ElvenPoncho.description>
-  <Make_AS_WHE_ElvenPoncho.jobString>Making Elven Poncho (Half Elf).</Make_AS_WHE_ElvenPoncho.jobString>
+  <Make_AS_WHE_ElvenPoncho.label>make Elven Poncho (Half-Elf)</Make_AS_WHE_ElvenPoncho.label>
+  <Make_AS_WHE_ElvenPoncho.description>Make Elven Poncho (Half-Elf) .</Make_AS_WHE_ElvenPoncho.description>
+  <Make_AS_WHE_ElvenPoncho.jobString>Making Elven Poncho (Half-Elf).</Make_AS_WHE_ElvenPoncho.jobString>
 
   <!--エルブンマント-->
   <!-- GT: Elven Cloak -->
@@ -108,9 +108,9 @@
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, CraftingSpot, ElectricSmithy, FueledSmithy -->
   <!-- Added a missing space. -->
-  <Make_AS_WHE_Horn.label>make install horn (Half Elf)</Make_AS_WHE_Horn.label>
-  <Make_AS_WHE_Horn.description>make install horn (Half Elf).</Make_AS_WHE_Horn.description>
-  <Make_AS_WHE_Horn.jobString>making install horn (Half Elf).</Make_AS_WHE_Horn.jobString>
+  <Make_AS_WHE_Horn.label>make install horn (Half-Elf)</Make_AS_WHE_Horn.label>
+  <Make_AS_WHE_Horn.description>make install horn (Half-Elf).</Make_AS_WHE_Horn.description>
+  <Make_AS_WHE_Horn.jobString>making install horn (Half-Elf).</Make_AS_WHE_Horn.jobString>
 
 
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricTailoringBench, HandTailoringBench -->
@@ -138,9 +138,9 @@
   <!-- Recipe Users: ElectricTailoringBench, HandTailoringBench, ElectricSmithy, FueledSmithy -->
   <!--ハーフエルフ式プレートアーマー-->
   <!-- GT: half elf plate armor-->
-  <Make_AS_WHE_PlateArmor.label>make plate armor (Half Elf)</Make_AS_WHE_PlateArmor.label>
-  <Make_AS_WHE_PlateArmor.description>Make plate armor (Half Elf).</Make_AS_WHE_PlateArmor.description>
-  <Make_AS_WHE_PlateArmor.jobString>Making plate armor (Half Elf).</Make_AS_WHE_PlateArmor.jobString>
+  <Make_AS_WHE_PlateArmor.label>make plate armor (Half-Elf)</Make_AS_WHE_PlateArmor.label>
+  <Make_AS_WHE_PlateArmor.description>Make plate armor (Half-Elf).</Make_AS_WHE_PlateArmor.description>
+  <Make_AS_WHE_PlateArmor.jobString>Making plate armor (Half-Elf).</Make_AS_WHE_PlateArmor.jobString>
 
   <!--古代エルフのプレートアーマー-->
   <!--GT:ancient elf plate armor-->

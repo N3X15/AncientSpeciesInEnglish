@@ -69,7 +69,7 @@
 
 
   <!-- 村民　子供 -->
-  <AS_WHE_BackstoryChild_a.title>Half Elf Village Kid</AS_WHE_BackstoryChild_a.title>
+  <AS_WHE_BackstoryChild_a.title>Half-Elf Village Kid</AS_WHE_BackstoryChild_a.title>
   <AS_WHE_BackstoryChild_a.titleShort>Village Kid</AS_WHE_BackstoryChild_a.titleShort>
-  <AS_WHE_BackstoryChild_a.baseDescription>[PAWN_nameDef] spent their childhood in a small Half Elf settlement.</AS_WHE_BackstoryChild_a.baseDescription>
+  <AS_WHE_BackstoryChild_a.baseDescription>[PAWN_nameDef] spent their childhood in a small Half-Elf settlement.</AS_WHE_BackstoryChild_a.baseDescription>
 </LanguageData>
