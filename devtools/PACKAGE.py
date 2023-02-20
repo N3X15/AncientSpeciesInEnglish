@@ -9,7 +9,7 @@ from buildtools.maestro.fileio import CopyFileTarget, CopyFilesTarget
 DIST_DIR = Path('dist')
 ABOUT_DIR = Path('About')
 
-VER_DIR = Path('1.3')
+VER_DIR = Path('1.4')
 DEFINJECTED_DIR  = VER_DIR / 'Languages' / 'English' / 'DefInjected'
 
 

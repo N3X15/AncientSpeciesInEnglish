@@ -10,11 +10,11 @@ from rim4py.definject import DefInjectedFile
 #     click.secho(' OK!', fg='green')
 
 ourdefs = DefInjectedFile()
-for path in (Path('1.3') / 'Languages' / 'English' / 'DefInjected').rglob('*.xml'):
+for path in (Path('1.4') / 'Languages' / 'English' / 'DefInjected').rglob('*.xml'):
     print(path)
     d = DefInjectedFile.FromFile(path)
     ourdefs.defs.update(d.defs)
-theirdefs = DefInjectedFile.FromFile(Path('Source') / 'data' / '1.3' / 'Languages' / 'English' / 'DefInjected' / 'all.xml')
+theirdefs = DefInjectedFile.FromFile(Path('Source') / 'data' / '1.4' / 'Languages' / 'English' / 'DefInjected' / 'all.xml')
 
 allkeys = sorted(set(ourdefs.keyset()) | set(theirdefs.keyset()))
 new_to_us = set(theirdefs.keyset()) - set(ourdefs.keyset())

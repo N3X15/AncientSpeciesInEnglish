@@ -43,5 +43,18 @@
   <!-- GT: It is possible to create arms and items using the technology of ancient races, analyzed and improved by half-elves.-->
   <AS_WHE_AncientTechnology.description>It is possible to create arms and items using the technology of ancient races, analyzed and improved by half-elves.</AS_WHE_AncientTechnology.description>
 
-
+  <AS_AT_AppliedGunsTechResearch.description>ある古代種族が用いていた技術について、基礎的な銃器の技術を応用した、より高度な銃器使用する弾薬について研究する。</AS_AT_AppliedGunsTechResearch.description>
+  <AS_AT_AppliedGunsTechResearch.label>古代の技術 応用的な銃器研究</AS_AT_AppliedGunsTechResearch.label>
+  <AS_AT_BasicResearch.description>ある古代種族が用いていた技術について、文献などからわかる基本的な内容を研究する。</AS_AT_BasicResearch.description>
+  <AS_AT_BasicResearch.label>古代の技術 基礎技術研究</AS_AT_BasicResearch.label>
+  <AS_AT_BasicWeaponsTechResearch.description>ある古代種族が用いていた技術について、比較的製造難度の低い近接戦闘武器や銃器、弾薬について研究する。</AS_AT_BasicWeaponsTechResearch.description>
+  <AS_AT_BasicWeaponsTechResearch.label>古代の技術 基礎的な武器研究</AS_AT_BasicWeaponsTechResearch.label>
+  
+  <AS_AT_GrawehrResearch.description>ある古代種族が用いていた技術について、高速榴弾射出ライフルの構造、仕組みについて理解し、グラヴェーア本体と、小威力の専用弾の製造を可能とする研究。</AS_AT_GrawehrResearch.description>
+  <AS_AT_GrawehrResearch.label>古代の技術 グラヴェーア解析</AS_AT_GrawehrResearch.label>
+  <AS_AT_SpacerTechResearch.description>ある古代種族が用いていた技術について、文献などからさらに発展させるための知識や情報、または発展した技術知識そのものを収集、研究する。</AS_AT_SpacerTechResearch.description>
+  <AS_AT_SpacerTechResearch.label>古代の技術 高度な技術の研究</AS_AT_SpacerTechResearch.label>
+  <AS_AT_TechAdvanceResearch.description>ある古代種族が用いていた技術について、文献などからさらに発展させるための知識や情報、または発展した技術知識そのものを収集、研究する。</AS_AT_TechAdvanceResearch.description>
+  <AS_AT_TechAdvanceResearch.label>古代の技術 技術の改良研究</AS_AT_TechAdvanceResearch.label>
+  <AS_AT_Weapons_MakeableGun.label>ancient spacies makeable gun weapons</AS_AT_Weapons_MakeableGun.label>
 </LanguageData>

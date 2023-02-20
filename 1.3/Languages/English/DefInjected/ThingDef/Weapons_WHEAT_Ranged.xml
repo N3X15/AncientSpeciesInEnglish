@@ -13,7 +13,7 @@
   <!-- Shotgun -->
   <!-- グラヴェス -->
   <!-- GT: Graves -->
-  <AS_WHEAT_Grawes.label>Graves</AS_WHEAT_Grawes.label>
+  <AS_WHEAT_Grawes.label>Grawes</AS_WHEAT_Grawes.label>
   <!-- ハーフエルフによって解析された古代技術を応用し、グラヴェールを改造したショットガン。 -->
   <!-- GT: A shotgun that remodeled Gravel by applying ancient technology analyzed by half-elves. -->
   <AS_WHEAT_Grawes.description>A shotgun that remade the Grawehr by applying ancient technology analyzed by half-elves.</AS_WHEAT_Grawes.description>
@@ -27,5 +27,6 @@
   <!-- GT: Half-elf type high power buckshot bullet -->
   <AS_WHEAT_Bullet_Shotgun_Backshot.label>Half-elf type high power buckshot</AS_WHEAT_Bullet_Shotgun_Backshot.label>
 
-
+  <!-- TODO -->
+  <AS_AT_GrawehrGun.label>grawehr type</AS_AT_GrawehrGun.label>
 </LanguageData>
